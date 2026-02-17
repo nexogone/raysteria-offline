@@ -1,0 +1,16 @@
+{
+    "reset_quests": [
+        {
+            "scenario_part": 1,
+            "first_flag": false,
+            "tips_flag": false,
+            "reset_flag": true
+        },
+        {
+            "scenario_part": 2,
+            "first_flag": false,
+            "tips_flag": false,
+            "reset_flag": true
+        }
+    ]
+}

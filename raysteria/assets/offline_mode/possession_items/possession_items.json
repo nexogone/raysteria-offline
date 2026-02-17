@@ -1,0 +1,560 @@
+[
+    {
+        "possession_type": 1,
+        "possession_id": 1001,
+        "possession_num": 271,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 1002,
+        "possession_num": 196,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 1003,
+        "possession_num": 230,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 2001,
+        "possession_num": 130,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 2002,
+        "possession_num": 55,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 2003,
+        "possession_num": 201,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 3001,
+        "possession_num": 142,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 3002,
+        "possession_num": 87,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 3003,
+        "possession_num": 181,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 4001,
+        "possession_num": 79,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 4002,
+        "possession_num": 228,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 4003,
+        "possession_num": 241,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 5001,
+        "possession_num": 2900,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 5002,
+        "possession_num": 1300,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 5003,
+        "possession_num": 512,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6001,
+        "possession_num": 42,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6002,
+        "possession_num": 8,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6101,
+        "possession_num": 67,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6102,
+        "possession_num": 135,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6201,
+        "possession_num": 217,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6202,
+        "possession_num": 10,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6301,
+        "possession_num": 263,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6302,
+        "possession_num": 50,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6401,
+        "possession_num": 73,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6402,
+        "possession_num": 12,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6501,
+        "possession_num": 111,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6502,
+        "possession_num": 14,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6601,
+        "possession_num": 231,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6602,
+        "possession_num": 26,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 6701,
+        "possession_num": 49,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7011,
+        "possession_num": 5,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7021,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7031,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7041,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7051,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7061,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7071,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7081,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7091,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7101,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7111,
+        "possession_num": 10,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7121,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7131,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7141,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7151,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7161,
+        "possession_num": 10,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7171,
+        "possession_num": 11,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7181,
+        "possession_num": 12,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7191,
+        "possession_num": 10,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7201,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7211,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7221,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7231,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7241,
+        "possession_num": 2,
+        "end_date": 0
+    },
+    {
+        "possession_type": 1,
+        "possession_id": 7461,
+        "possession_num": 9,
+        "end_date": 0
+    },
+    {
+        "possession_type": 2,
+        "possession_id": 1,
+        "possession_num": 2053036,
+        "end_date": 0
+    },
+    {
+        "possession_type": 3,
+        "possession_id": 201015,
+        "possession_num": 1,
+        "end_date": 1735657199
+    },
+    {
+        "possession_type": 3,
+        "possession_id": 201017,
+        "possession_num": 1,
+        "end_date": 1924959599
+    },
+    {
+        "possession_type": 4,
+        "possession_id": 1001,
+        "possession_num": 1138,
+        "end_date": 0
+    },
+    {
+        "possession_type": 4,
+        "possession_id": 2001,
+        "possession_num": 45,
+        "end_date": 0
+    },
+    {
+        "possession_type": 4,
+        "possession_id": 3001,
+        "possession_num": 3,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 103,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 1001,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 2803,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 3801,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 10801,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 10802,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 11501,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 15601,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 15602,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 20101,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 20102,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 20201,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 23001,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 23002,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 27101,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30101,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30102,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30201,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30202,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30301,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30401,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30402,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30501,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30601,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 30602,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 5,
+        "possession_id": 32101,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 6,
+        "possession_id": 2403211,
+        "possession_num": 7,
+        "end_date": 0
+    },
+    {
+        "possession_type": 7,
+        "possession_id": 101,
+        "possession_num": 5,
+        "end_date": 0
+    },
+    {
+        "possession_type": 8,
+        "possession_id": 1,
+        "possession_num": 17,
+        "end_date": 0
+    },
+    {
+        "possession_type": 10,
+        "possession_id": 2,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 10,
+        "possession_id": 3,
+        "possession_num": 1,
+        "end_date": 0
+    },
+    {
+        "possession_type": 13,
+        "possession_id": 1,
+        "possession_num": 3,
+        "end_date": 0
+    }
+]

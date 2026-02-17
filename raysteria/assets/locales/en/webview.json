@@ -1,0 +1,12 @@
+{
+  "announce_announces_summary": "[PH] Announces",
+  "announce_announces_desc": "[PH] Description",
+  "transfer_combine_exec_summary": "[PH] CombineExec",
+  "transfer_combine_exec_desc": "[PH] Description",
+  "transfer_combine_start_summary": "[PH] CombineStart",
+  "transfer_combine_start_desc": "[PH] Description",
+  "transfer_transfer_exec_summary": "[PH] TransferExec",
+  "transfer_transfer_exec_desc": "[PH] Description",
+  "transfer_transfer_start_summary": "[PH] TransferStart",
+  "transfer_transfer_start_desc": "[PH] Description"
+}

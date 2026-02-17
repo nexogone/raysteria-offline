@@ -1,0 +1,3521 @@
+{
+    "parties": [
+        {
+            "party_number": 1,
+            "bridge_flag": true,
+            "party_charas": [
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 117,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 117001,
+                        "mst_attachment_id": 117001,
+                        "mst_weapon_model_id": 117001,
+                        "mst_cutin_id": 1,
+                        "lv": 60,
+                        "limit_break_phase": 1,
+                        "exp": 2964053,
+                        "awake_phase": 1,
+                        "created_at": 1711063123,
+                        "chara_skills": [],
+                        "favor_lv": 3,
+                        "favor_exp": 3068,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 723352,
+                        "equip_lv": 59,
+                        "equip_lv_max": 63,
+                        "equip_lv_max_progress_rate": 9.96,
+                        "contribution_point": 24,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 11701,
+                                "sub_episode_type": 1,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 11702,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 4,
+                    "chara": {
+                        "mst_chara_id": 139,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 139001,
+                        "mst_attachment_id": 139001,
+                        "mst_weapon_model_id": 139001,
+                        "mst_cutin_id": 1,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3414628,
+                        "awake_phase": 0,
+                        "created_at": 1711412392,
+                        "chara_skills": [],
+                        "favor_lv": 0,
+                        "favor_exp": 0,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 178850,
+                        "equip_lv": 25,
+                        "equip_lv_max": 25,
+                        "equip_lv_max_progress_rate": 95.7,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 13901,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 13902,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 13903,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 2,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 117,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 117001,
+                        "mst_attachment_id": 117001,
+                        "mst_weapon_model_id": 117001,
+                        "mst_cutin_id": 1,
+                        "lv": 60,
+                        "limit_break_phase": 1,
+                        "exp": 2964053,
+                        "awake_phase": 1,
+                        "created_at": 1711063123,
+                        "chara_skills": [],
+                        "favor_lv": 3,
+                        "favor_exp": 3068,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 723352,
+                        "equip_lv": 59,
+                        "equip_lv_max": 63,
+                        "equip_lv_max_progress_rate": 9.96,
+                        "contribution_point": 24,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 11701,
+                                "sub_episode_type": 1,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 11702,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 139,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 139001,
+                        "mst_attachment_id": 139001,
+                        "mst_weapon_model_id": 139001,
+                        "mst_cutin_id": 1,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3414628,
+                        "awake_phase": 0,
+                        "created_at": 1711412392,
+                        "chara_skills": [],
+                        "favor_lv": 0,
+                        "favor_exp": 0,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 178850,
+                        "equip_lv": 25,
+                        "equip_lv_max": 25,
+                        "equip_lv_max_progress_rate": 95.7,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 13901,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 13902,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 13903,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 3,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 24,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 24001,
+                        "mst_attachment_id": 24001,
+                        "mst_weapon_model_id": 24001,
+                        "mst_cutin_id": 1,
+                        "lv": 50,
+                        "limit_break_phase": 0,
+                        "exp": 1118240,
+                        "awake_phase": 0,
+                        "created_at": 1711251046,
+                        "chara_skills": [],
+                        "favor_lv": 0,
+                        "favor_exp": 0,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 167328,
+                        "equip_lv": 24,
+                        "equip_lv_max": 32,
+                        "equip_lv_max_progress_rate": 75.97,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2401,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2402,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2403,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 4,
+                    "chara": {
+                        "mst_chara_id": 39,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 39001,
+                        "mst_attachment_id": 39001,
+                        "mst_weapon_model_id": 39001,
+                        "mst_cutin_id": 1,
+                        "lv": 50,
+                        "limit_break_phase": 0,
+                        "exp": 1118240,
+                        "awake_phase": 0,
+                        "created_at": 1710306140,
+                        "chara_skills": [],
+                        "favor_lv": 0,
+                        "favor_exp": 0,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 312578,
+                        "equip_lv": 35,
+                        "equip_lv_max": 35,
+                        "equip_lv_max_progress_rate": 43.57,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 299,
+                                    "mst_weapon_id": 394004,
+                                    "lv": 1,
+                                    "limit_break_phase": 2,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 39
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 312,
+                                    "mst_weapon_id": 394002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "arte_lv": 1,
+                                    "set_arte_lv": 1,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 39
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 311,
+                                    "mst_weapon_id": 395001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 0,
+                                    "set_arte_lv": 0,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 39
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 193,
+                                    "mst_weapon_id": 393005,
+                                    "lv": 1,
+                                    "limit_break_phase": 2,
+                                    "arte_lv": 0,
+                                    "set_arte_lv": 0,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 39
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 3901,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 3902,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 3903,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 3904,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 4,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 1,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 1201,
+                        "mst_attachment_id": 1001,
+                        "mst_weapon_model_id": 1001,
+                        "mst_cutin_id": 3,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3816133,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 4,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 12,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 2,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 827890,
+                        "equip_lv": 64,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 77.24,
+                        "contribution_point": 48,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 19,
+                                    "mst_magical_mirror_id": 110002,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "mirrorge_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 4,
+                                    "mst_magical_mirror_id": 110001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 803,
+                                    "mst_weapon_id": 15004,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 1,
+                                    "mst_weapon_id": 13001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 214,
+                                    "mst_weapon_id": 15003,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 10,
+                                    "mst_weapon_id": 13005,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {
+                            "mst_student_chara_id": 1,
+                            "mst_teacher_chara_id": 2,
+                            "student_lv": 3,
+                            "student_exp": 300
+                        },
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 101,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 103,
+                                "sub_episode_type": 3,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 104,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 105,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 5,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 1,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 1201,
+                        "mst_attachment_id": 1001,
+                        "mst_weapon_model_id": 1001,
+                        "mst_cutin_id": 3,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3816133,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 4,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 12,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 2,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 827890,
+                        "equip_lv": 64,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 77.24,
+                        "contribution_point": 48,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 19,
+                                    "mst_magical_mirror_id": 110002,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "mirrorge_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 4,
+                                    "mst_magical_mirror_id": 110001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 803,
+                                    "mst_weapon_id": 15004,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 1,
+                                    "mst_weapon_id": 13001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 214,
+                                    "mst_weapon_id": 15003,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 10,
+                                    "mst_weapon_id": 13005,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {
+                            "mst_student_chara_id": 1,
+                            "mst_teacher_chara_id": 2,
+                            "student_lv": 3,
+                            "student_exp": 300
+                        },
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 101,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 103,
+                                "sub_episode_type": 3,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 104,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 105,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 6,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 1,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 1201,
+                        "mst_attachment_id": 1001,
+                        "mst_weapon_model_id": 1001,
+                        "mst_cutin_id": 3,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3816133,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 4,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 12,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 2,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 827890,
+                        "equip_lv": 64,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 77.24,
+                        "contribution_point": 48,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 19,
+                                    "mst_magical_mirror_id": 110002,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "mirrorge_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 4,
+                                    "mst_magical_mirror_id": 110001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 803,
+                                    "mst_weapon_id": 15004,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 1,
+                                    "mst_weapon_id": 13001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 214,
+                                    "mst_weapon_id": 15003,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 10,
+                                    "mst_weapon_id": 13005,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {
+                            "mst_student_chara_id": 1,
+                            "mst_teacher_chara_id": 2,
+                            "student_lv": 3,
+                            "student_exp": 300
+                        },
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 101,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 103,
+                                "sub_episode_type": 3,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 104,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 105,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 7,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 1,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 1201,
+                        "mst_attachment_id": 1001,
+                        "mst_weapon_model_id": 1001,
+                        "mst_cutin_id": 3,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3816133,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 4,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 12,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 2,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 827890,
+                        "equip_lv": 64,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 77.24,
+                        "contribution_point": 48,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 19,
+                                    "mst_magical_mirror_id": 110002,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "mirrorge_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 4,
+                                    "mst_magical_mirror_id": 110001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 1,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 803,
+                                    "mst_weapon_id": 15004,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 1,
+                                    "mst_weapon_id": 13001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 3,
+                                    "set_arte_lv": 3,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 214,
+                                    "mst_weapon_id": 15003,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 10,
+                                    "mst_weapon_id": 13005,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 2,
+                                    "set_arte_lv": 2,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 1
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {
+                            "mst_student_chara_id": 1,
+                            "mst_teacher_chara_id": 2,
+                            "student_lv": 3,
+                            "student_exp": 300
+                        },
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 101,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 103,
+                                "sub_episode_type": 3,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 104,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 105,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "party_number": 8,
+            "bridge_flag": false,
+            "party_charas": [
+                {
+                    "party_order": 2,
+                    "chara": {
+                        "mst_chara_id": 2,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 2201,
+                        "mst_attachment_id": 2001,
+                        "mst_weapon_model_id": 2001,
+                        "mst_cutin_id": 1,
+                        "lv": 77,
+                        "limit_break_phase": 3,
+                        "exp": 147046560,
+                        "awake_phase": 1,
+                        "created_at": 1710204893,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 8,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 15,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 15000,
+                        "favor_ability_type1": 1,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 849604,
+                        "equip_lv": 65,
+                        "equip_lv_max": 65,
+                        "equip_lv_max_progress_rate": 58.87,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 3,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 9,
+                                    "mst_magical_mirror_id": 210002,
+                                    "lv": 1,
+                                    "limit_break_phase": 1,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 2,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 446,
+                                    "mst_weapon_id": 25001,
+                                    "lv": 1,
+                                    "limit_break_phase": 0,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 2
+                                }
+                            }
+                        ],
+                        "chara_school": {
+                            "school_number": 1,
+                            "mst_teacher_chara_id": 2,
+                            "mst_student_chara_id": 1,
+                            "school_lv": 1,
+                            "school_exp": 300
+                        },
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 201,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 202,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 203,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 204,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 1,
+                    "chara": {
+                        "mst_chara_id": 28,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 28001,
+                        "mst_attachment_id": 28001,
+                        "mst_weapon_model_id": 28001,
+                        "mst_cutin_id": 3,
+                        "lv": 69,
+                        "limit_break_phase": 2,
+                        "exp": 78188695,
+                        "awake_phase": 1,
+                        "created_at": 1710206116,
+                        "chara_skills": [
+                            {
+                                "slot": 1,
+                                "mst_chara_skill_id": 3,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 2,
+                                "mst_chara_skill_id": 17,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            },
+                            {
+                                "slot": 3,
+                                "mst_chara_skill_id": 9,
+                                "chara_skill_rank": 1,
+                                "chara_skill_exchange_flag": false
+                            }
+                        ],
+                        "favor_lv": 10,
+                        "favor_exp": 100000,
+                        "favor_ability_type1": 8,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 1131816,
+                        "equip_lv": 77,
+                        "equip_lv_max": 77,
+                        "equip_lv_max_progress_rate": 34.94,
+                        "contribution_point": 672,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [
+                            {
+                                "position": 1,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 2,
+                                    "mst_magical_mirror_id": 2810002,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": true
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "magical_mirror": {
+                                    "user_magical_mirror_sid": 3,
+                                    "mst_magical_mirror_id": 2810001,
+                                    "lv": 25,
+                                    "limit_break_phase": 4,
+                                    "mirrorge_arte_lv": 5,
+                                    "exp": 56365,
+                                    "favorite_flag": true,
+                                    "burst_limit_phase": 0,
+                                    "mst_chara_id": 28,
+                                    "support_flag": false
+                                }
+                            }
+                        ],
+                        "chara_weapons": [
+                            {
+                                "position": 1,
+                                "weapon": {
+                                    "user_weapon_sid": 8,
+                                    "mst_weapon_id": 283001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 6,
+                                    "set_arte_lv": 6,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 2,
+                                "weapon": {
+                                    "user_weapon_sid": 5,
+                                    "mst_weapon_id": 285001,
+                                    "lv": 1,
+                                    "limit_break_phase": 3,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": true,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 3,
+                                "weapon": {
+                                    "user_weapon_sid": 6,
+                                    "mst_weapon_id": 284001,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            },
+                            {
+                                "position": 4,
+                                "weapon": {
+                                    "user_weapon_sid": 7,
+                                    "mst_weapon_id": 284002,
+                                    "lv": 1,
+                                    "limit_break_phase": 4,
+                                    "arte_lv": 5,
+                                    "set_arte_lv": 5,
+                                    "exp": 0,
+                                    "favorite_flag": false,
+                                    "mst_weapon_surface_id": 0,
+                                    "auto_available_flag": true,
+                                    "recollection_auto_available_flag": true,
+                                    "mst_chara_id": 28
+                                }
+                            }
+                        ],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [
+                            {
+                                "mst_chara_id": 28,
+                                "mst_fairys_dress_id": 2811001,
+                                "rarity": 1,
+                                "arte_lv": 3,
+                                "fairy_gauge": 0.0,
+                                "created_at": 1712270985,
+                                "cutin_enable_flag": false,
+                                "activate_flag": false,
+                                "equip_flag": true,
+                                "support_flag": false
+                            }
+                        ],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 2801,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2802,
+                                "sub_episode_type": 2,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 2803,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 2804,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 3,
+                    "chara": {
+                        "mst_chara_id": 117,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 117001,
+                        "mst_attachment_id": 117001,
+                        "mst_weapon_model_id": 117001,
+                        "mst_cutin_id": 1,
+                        "lv": 60,
+                        "limit_break_phase": 1,
+                        "exp": 2964053,
+                        "awake_phase": 1,
+                        "created_at": 1711063123,
+                        "chara_skills": [],
+                        "favor_lv": 3,
+                        "favor_exp": 3068,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 723352,
+                        "equip_lv": 59,
+                        "equip_lv_max": 63,
+                        "equip_lv_max_progress_rate": 9.96,
+                        "contribution_point": 24,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 11701,
+                                "sub_episode_type": 1,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 11702,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "party_order": 4,
+                    "chara": {
+                        "mst_chara_id": 139,
+                        "base_chara_id": 0,
+                        "chara_type": 0,
+                        "mst_costume_id": 139001,
+                        "mst_attachment_id": 139001,
+                        "mst_weapon_model_id": 139001,
+                        "mst_cutin_id": 1,
+                        "lv": 60,
+                        "limit_break_phase": 2,
+                        "exp": 3414628,
+                        "awake_phase": 0,
+                        "created_at": 1711412392,
+                        "chara_skills": [],
+                        "favor_lv": 0,
+                        "favor_exp": 0,
+                        "favor_ability_type1": 0,
+                        "anima_type_second": 0,
+                        "switch_arte_position": 1,
+                        "equip_lv_exp": 178850,
+                        "equip_lv": 25,
+                        "equip_lv_max": 25,
+                        "equip_lv_max_progress_rate": 95.7,
+                        "contribution_point": 0,
+                        "form_change_total_equip_lv": 0,
+                        "chara_magical_mirrors": [],
+                        "chara_weapons": [],
+                        "chara_school": {},
+                        "chara_student": {},
+                        "chara_fairys_dresses": [],
+                        "sub_episode_conditions": [
+                            {
+                                "mst_sub_episode_id": 13901,
+                                "sub_episode_type": 1,
+                                "unleash_flag": true
+                            },
+                            {
+                                "mst_sub_episode_id": 13902,
+                                "sub_episode_type": 2,
+                                "unleash_flag": false
+                            },
+                            {
+                                "mst_sub_episode_id": 13903,
+                                "sub_episode_type": 4,
+                                "unleash_flag": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "favor_ability_statuses": [
+        {
+            "favor_ability_type": 1,
+            "favor_ability_lv": 1,
+            "favor_ability_value": 10.0
+        },
+        {
+            "favor_ability_type": 2,
+            "favor_ability_lv": 1,
+            "favor_ability_value": 10.0
+        },
+        {
+            "favor_ability_type": 6,
+            "favor_ability_lv": 1,
+            "favor_ability_value": 1.0
+        },
+        {
+            "favor_ability_type": 8,
+            "favor_ability_lv": 1,
+            "favor_ability_value": 10.0
+        }
+    ]
+}

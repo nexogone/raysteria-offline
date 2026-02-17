@@ -1,0 +1,191 @@
+{
+    "list": [
+        {
+            "id": 371526469,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 504001,
+            "limit_break_phase": 2,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 371526468,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 863002,
+            "limit_break_phase": 4,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 371526467,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 863002,
+            "limit_break_phase": 3,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 371526466,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 723002,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 371526465,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 863001,
+            "limit_break_phase": 2,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 371526464,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 723004,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 371526463,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 723003,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1721002726
+        },
+        {
+            "id": 367117906,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 2554001,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1720664044
+        },
+        {
+            "id": 367117905,
+            "auto_type": 2,
+            "equip_type": 1,
+            "mst_equip_id": 13005,
+            "limit_break_phase": 0,
+            "gald": 1800,
+            "prism": 24,
+            "rare_prism": 0,
+            "created_at": 1720664044
+        },
+        {
+            "id": 367117904,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 1804002,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1720664044
+        },
+        {
+            "id": 367117903,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 2244001,
+            "limit_break_phase": 3,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1720664044
+        },
+        {
+            "id": 367117902,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 683001,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1720664044
+        },
+        {
+            "id": 367117901,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 2304003,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1720664044
+        },
+        {
+            "id": 328392962,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 1134002,
+            "limit_break_phase": 1,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1718797602
+        },
+        {
+            "id": 328392961,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 223002,
+            "limit_break_phase": 2,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1718797602
+        },
+        {
+            "id": 328392960,
+            "auto_type": 2,
+            "equip_type": 1,
+            "mst_equip_id": 284002,
+            "limit_break_phase": 0,
+            "gald": 3000,
+            "prism": 120,
+            "rare_prism": 0,
+            "created_at": 1718797602
+        },
+        {
+            "id": 328382153,
+            "auto_type": 1,
+            "equip_type": 1,
+            "mst_equip_id": 303001,
+            "limit_break_phase": 2,
+            "gald": 0,
+            "prism": 0,
+            "rare_prism": 0,
+            "created_at": 1718797423
+        }
+    ]
+}

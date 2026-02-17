@@ -1,0 +1,4424 @@
+{
+    "battle_chara_stamp_list": [
+        {
+            "mst_battle_chara_stamp_id": 10001001,
+            "num": 0,
+            "equip_flag": true
+        },
+        {
+            "mst_battle_chara_stamp_id": 10001002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10001003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10001004,
+            "num": 1,
+            "equip_flag": true
+        },
+        {
+            "mst_battle_chara_stamp_id": 10002001,
+            "num": 1,
+            "equip_flag": true
+        },
+        {
+            "mst_battle_chara_stamp_id": 10002002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10002003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10002004,
+            "num": 1,
+            "equip_flag": true
+        },
+        {
+            "mst_battle_chara_stamp_id": 10003001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10003002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10003003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10003004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10004001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10004002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10004003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10004004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10005001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10005002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10005003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10005004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10006001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10006002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10006003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10006004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10007001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10007002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10007003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10007004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10008001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10008002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10008003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10008004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10009001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10009002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10009003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10009004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10010001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10010002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10010003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10010004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10011001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10011002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10011003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10011004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10012001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10012002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10012003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10012004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10013001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10013002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10013003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10013004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10014001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10014002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10014003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10014004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10015001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10015002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10015003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10015004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10016001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10016002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10016003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10016004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10017001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10017002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10017003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10017004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10018001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10018002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10018003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10018004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10019001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10019002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10019003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10019004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10020001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10020002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10020003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10020004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10021001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10021002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10021003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10021004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10022001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10022002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10022003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10022004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10023001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10023002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10023003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10023004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10024001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10024002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10024003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10024004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10025001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10025002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10025003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10025004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10026001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10026002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10026003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10026004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10027001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10027002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10027003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10027004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10028001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10028002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10028003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10028004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10029001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10029002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10029003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10029004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10030001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10030002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10030003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10030004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10031001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10031002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10031003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10031004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10032001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10032002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10032003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10032004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10033001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10033002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10033003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10033004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10034001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10034002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10034003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10034004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10035001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10035002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10035003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10035004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10036001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10036002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10036003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10036004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10037001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10037002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10037003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10037004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10038001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10038002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10038003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10038004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10039001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10039002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10039003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10039004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10040001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10040002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10040003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10040004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10041001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10041002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10041003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10041004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10042001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10042002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10042003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10042004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10043001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10043002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10043003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10043004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10044001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10044002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10044003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10044004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10045001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10045002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10045003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10045004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10046001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10046002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10046003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10046004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10047001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10047002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10047003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10047004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10048001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10048002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10048003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10048004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10049001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10049002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10049003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10049004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10050001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10050002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10050003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10050004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10051001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10051002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10051003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10051004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10052001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10052002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10052003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10052004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10053001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10053002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10053003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10053004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10054001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10054002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10054003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10054004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10055001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10055002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10055003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10055004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10056001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10056002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10056003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10056004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10057001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10057002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10057003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10057004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10058001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10058002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10058003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10058004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10059001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10059002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10059003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10059004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10060001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10060002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10060003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10060004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10061001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10061002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10061003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10061004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10062001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10062002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10062003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10062004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10063001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10063002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10063003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10063004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10064001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10064002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10064003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10064004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10065001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10065002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10065003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10065004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10066001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10066002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10066003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10066004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10067001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10067002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10067003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10067004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10068001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10068002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10068003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10068004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10069001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10069002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10069003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10069004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10070001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10070002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10070003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10070004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10071001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10071002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10071003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10071004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10072001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10072002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10072003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10072004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10073001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10073002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10073003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10073004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10074001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10074002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10074003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10074004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10075001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10075002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10075003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10075004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10076001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10076002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10076003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10076004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10077001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10077002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10077003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10077004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10078001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10078002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10078003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10078004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10079001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10079002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10079003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10079004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10080001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10080002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10080003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10080004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10081001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10081002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10081003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10081004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10082001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10082002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10082003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10082004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10083001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10083002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10083003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10083004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10085001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10085002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10085003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10085004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10086001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10086002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10086003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10086004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10089001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10089002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10089003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10089004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10090001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10090002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10090003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10090004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10091001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10091002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10091003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10091004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10093001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10093002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10093003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10093004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10094001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10094002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10094003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10094004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10095001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10095002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10095003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10095004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10096001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10096002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10096003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10096004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10097001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10097002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10097003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10097004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10098001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10098002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10098003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10098004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10099001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10099002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10099003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10099004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10100001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10100002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10100003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10100004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10102001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10102002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10102003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10102004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10103001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10103002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10103003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10103004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10104001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10104002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10104003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10104004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10105001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10105002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10105003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10105004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10106001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10106002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10106003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10106004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10107001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10107002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10107003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10107004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10108001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10108002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10108003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10108004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10111001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10111002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10111003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10111004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10112001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10112002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10112003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10112004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10113001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10113002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10113003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10113004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10114001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10114002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10114003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10114004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10115001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10115002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10115003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10115004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10116001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10116002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10116003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10116004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10117001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10117002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10117003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10117004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10118001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10118002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10118003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10118004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10119001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10119002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10119003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10119004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10121001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10121002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10121003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10121004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10125001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10125002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10125003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10125004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10126001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10126002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10126003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10126004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10128001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10128002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10128003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10128004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10129001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10129002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10129003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10129004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10132001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10132002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10132003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10132004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10133001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10133002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10133003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10133004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10134001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10134002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10134003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10134004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10135001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10135002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10135003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10135004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10136001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10136002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10136003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10136004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10137001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10137002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10137003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10137004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10138001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10138002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10138003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10138004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10139001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10139002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10139003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10139004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10140001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10140002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10140003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10140004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10143001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10143002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10143003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10143004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10145001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10145002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10145003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10145004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10149001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10149002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10149003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10149004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10152001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10152002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10152003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10152004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10153001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10153002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10153003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10153004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10154001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10154002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10154003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10154004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10155001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10155002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10155003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10155004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10156001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10156002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10156003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10156004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10157001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10157002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10157003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10157004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10158001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10158002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10158003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10158004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10159001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10159002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10159003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10159004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10160001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10160002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10160003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10160004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10161001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10161002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10161003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10161004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10162001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10162002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10162003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10162004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10163001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10163002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10163003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10163004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10165001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10165002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10165003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10165004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10166001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10166002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10166003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10166004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10167001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10167002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10167003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10167004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10168001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10168002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10168003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10168004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10169001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10169002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10169003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10169004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10170001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10170002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10170003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10170004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10171001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10171002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10171003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10171004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10172001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10172002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10172003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10172004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10173001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10173002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10173003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10173004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10175001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10175002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10175003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10175004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10176001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10176002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10176003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10176004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10178001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10178002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10178003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10178004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10179001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10179002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10179003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10179004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10180001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10180002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10180003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10180004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10181001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10181002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10181003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10181004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10182001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10182002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10182003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10182004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10183001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10183002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10183003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10183004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10184001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10184002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10184003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10184004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10193001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10193002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10193003,
+            "num": 1,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10193004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10194001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10194002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10194003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10194004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10195001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10195002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10195003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10195004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10197001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10197002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10197003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10197004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10198001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10198002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10198003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10198004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10199001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10199002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10199003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10199004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10200001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10200002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10200003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10200004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10201001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10201002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10201003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10201004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10202001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10202002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10202003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10202004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10206001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10206002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10206003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10206004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10207001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10207002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10207003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10207004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10208001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10208002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10208003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10208004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10209001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10209002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10209003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10209004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10210001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10210002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10210003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10210004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10211001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10211002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10211003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10211004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10212001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10212002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10212003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10212004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10213001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10213002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10213003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10213004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10222001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10222002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10222003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10222004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10224001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10224002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10224003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10224004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10225001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10225002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10225003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10225004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10226001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10226002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10226003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10226004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10227001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10227002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10227003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10227004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10230001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10230002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10230003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10230004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10233001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10233002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10233003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10233004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10239001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10239002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10239003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10239004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10240001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10240002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10240003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10240004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10241001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10241002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10241003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10241004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10242001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10242002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10242003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10242004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10243001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10243002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10243003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10243004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10248001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10248002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10248003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10248004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10250001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10250002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10250003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10250004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10253001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10253002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10253003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10253004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10254001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10254002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10254003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10254004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10255001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10255002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10255003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10255004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10257001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10257002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10257003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10257004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10258001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10258002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10258003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10258004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10259001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10259002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10259003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10259004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10260001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10260002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10260003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10260004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10268001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10268002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10268003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10268004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10271001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10271002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10271003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10271004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10272001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10272002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10272003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10272004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10277001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10277002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10277003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10277004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10282001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10282002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10282003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10282004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10283001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10283002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10283003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10283004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10284001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10284002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10284003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10284004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10285001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10285002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10285003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10285004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10286001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10286002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10286003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10286004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10294001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10294002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10294003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10294004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10295001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10295002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10295003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10295004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10297001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10297002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10297003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10297004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10299001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10299002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10299003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10299004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10301001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10301002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10301003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10301004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10302001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10302002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10302003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10302004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10303001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10303002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10303003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10303004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10304001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10304002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10304003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10304004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10305001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10305002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10305003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10305004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10306001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10306002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10306003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10306004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10307001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10307002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10307003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10307004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10312001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10312002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10312003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10312004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10315001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10315002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10315003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10315004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10318001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10318002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10318003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10318004,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10321001,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10321002,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10321003,
+            "num": 0,
+            "equip_flag": false
+        },
+        {
+            "mst_battle_chara_stamp_id": 10321004,
+            "num": 0,
+            "equip_flag": false
+        }
+    ]
+}

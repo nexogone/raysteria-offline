@@ -1,0 +1,1521 @@
+{
+    "chara_sub_episodes": [
+        {
+            "mst_chara_id": 1,
+            "lv": 60,
+            "awake_phase": 1,
+            "favor_lv": 10,
+            "equip_lv": 64,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 101,
+                    "read_flag": true
+                },
+                {
+                    "mst_sub_episode_id": 103,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 2,
+            "lv": 77,
+            "awake_phase": 1,
+            "favor_lv": 10,
+            "equip_lv": 65,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 201,
+                    "read_flag": true
+                },
+                {
+                    "mst_sub_episode_id": 202,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 3,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 5,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 301,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 4,
+            "lv": 10,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 401,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 5,
+            "lv": 9,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 501,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 6,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 46,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 601,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 7,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 8,
+            "lv": 21,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 9,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 35,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 901,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 10,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 22,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 11,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 12,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1201,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 14,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 55,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1401,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 16,
+            "lv": 24,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 17,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 25,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 18,
+            "lv": 23,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 19,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 10,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1901,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 20,
+            "lv": 28,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 2001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 22,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 23,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 24,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 24,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 2401,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 25,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 8,
+            "equip_lv": 61,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 2501,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 27,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 64,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 2701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 28,
+            "lv": 69,
+            "awake_phase": 1,
+            "favor_lv": 10,
+            "equip_lv": 77,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 2801,
+                    "read_flag": true
+                },
+                {
+                    "mst_sub_episode_id": 2802,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 29,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 56,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 30,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 31,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 38,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 33,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 49,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3301,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 34,
+            "lv": 10,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 35,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 36,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 52,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3601,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 37,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 10,
+            "equip_lv": 37,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 38,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 42,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 39,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 35,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 3901,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 40,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 35,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 41,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 42,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 43,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 25,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 4301,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 44,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 4401,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 45,
+            "lv": 27,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 46,
+            "lv": 46,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 48,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 58,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 4801,
+                    "read_flag": true
+                },
+                {
+                    "mst_sub_episode_id": 4803,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 49,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 50,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 21,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 5001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 51,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 31,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 5101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 52,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 25,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 53,
+            "lv": 32,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 55,
+            "lv": 40,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 11,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 5501,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 56,
+            "lv": 35,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 57,
+            "lv": 14,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 23,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 58,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 5801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 60,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 62,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 6201,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 63,
+            "lv": 21,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 66,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 34,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 67,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 6701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 68,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 70,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 71,
+            "lv": 24,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 7101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 72,
+            "lv": 27,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 73,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 74,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 10,
+            "equip_lv": 48,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 7402,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 75,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 56,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 7501,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 76,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 36,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 77,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 46,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 80,
+            "lv": 40,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 38,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 8001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 82,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 34,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 83,
+            "lv": 21,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 45,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 85,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 89,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 1,
+            "equip_lv": 66,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 8901,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 90,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 38,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 9001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 91,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 5,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 9101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 93,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 9301,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 96,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 97,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 98,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 37,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 9801,
+                    "read_flag": true
+                },
+                {
+                    "mst_sub_episode_id": 9803,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 104,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 105,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 106,
+            "lv": 35,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 10601,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 107,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 42,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 10701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 108,
+            "lv": 21,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 10801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 112,
+            "lv": 26,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 115,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 34,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 11501,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 116,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 117,
+            "lv": 60,
+            "awake_phase": 1,
+            "favor_lv": 3,
+            "equip_lv": 59,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 118,
+            "lv": 33,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 51,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 11801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 121,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 125,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 128,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 129,
+            "lv": 21,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 133,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 136,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 138,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 13801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 139,
+            "lv": 60,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 25,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 13901,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 143,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 145,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 149,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 152,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 154,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 155,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 156,
+            "lv": 7,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 4,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 15601,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 159,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 162,
+            "lv": 10,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 163,
+            "lv": 31,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 165,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 167,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 168,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 16801,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 169,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 16901,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 170,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 171,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 172,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 176,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 178,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 179,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 181,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 183,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 184,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 2,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 198,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 200,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 201,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 13,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 20101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 202,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 45,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 20201,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 207,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 211,
+            "lv": 10,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 213,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 222,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 224,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 230,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 6,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 23001,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 239,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 254,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 48,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 257,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 262,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 24,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 271,
+            "lv": 50,
+            "awake_phase": 0,
+            "favor_lv": 2,
+            "equip_lv": 31,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 27101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 277,
+            "lv": 50,
+            "awake_phase": 1,
+            "favor_lv": 2,
+            "equip_lv": 28,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 27701,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 282,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 28201,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 283,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 284,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 299,
+            "lv": 36,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 301,
+            "lv": 25,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 302,
+            "lv": 19,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 303,
+            "lv": 1,
+            "awake_phase": 1,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 304,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 30401,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 306,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 30601,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 321,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 32101,
+                    "read_flag": true
+                }
+            ]
+        },
+        {
+            "mst_chara_id": 1012,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 1072,
+            "lv": 1,
+            "awake_phase": 0,
+            "favor_lv": 0,
+            "equip_lv": 1,
+            "sub_episodes": []
+        },
+        {
+            "mst_chara_id": 10001,
+            "lv": 60,
+            "awake_phase": 1,
+            "favor_lv": 10,
+            "equip_lv": 64,
+            "sub_episodes": [
+                {
+                    "mst_sub_episode_id": 1000101,
+                    "read_flag": true
+                },
+                {
+                    "mst_sub_episode_id": 1000102,
+                    "read_flag": true
+                }
+            ]
+        }
+    ]
+}

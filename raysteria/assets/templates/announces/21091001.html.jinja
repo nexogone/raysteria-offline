@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <link href="{{ s3_url }}public/Web/css/info.css"
+              rel="stylesheet"
+              type="text/css">
+        <meta content="telephone=no, email=no, address=no" name="format-detection">
+        <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"
+              name="viewport">
+        <title>{{ title }}</title>
+    </head>
+    <body>
+        <div class="container">
+            <p style="text-align: center;">
+                <span style="font-size: 18px;"><b>【重要】</b></span>
+            </p>
+            <p style="text-align: center;">
+                <span style="font-size: 18px;"><b>始祖久遠の塔 神域の調整について</b></span>
+            </p>
+            <!-- 仕切り -->
+            <hr>
+            <section>
+                <p style="text-align: center;">
+                    <span style="font-size:14px;"></span>
+                </p>
+                <p style="font-weight: bold; text-align: center;">&nbsp;</p>
+                <p style="text-align: center;">『TALES OF THE RAYS』をご利用いただき誠にありがとうございます。</p>
+                <p style="text-align: center;">&nbsp;</p>
+                <p style="text-align: center;">開催中の始祖久遠の塔 神域について、</p>
+                <p style="text-align: center;">8/30(月)のリリース以降のプレイ状況、</p>
+                <p style="text-align: center;">クリア状況を踏まえ難易度の調整を9/10(金)に行います。</p>
+                <p>&nbsp;</p>
+                <p>■調整予定の内容</p>
+                <p>・61Fから64Fクリア時の装備の獲得数を増加</p>
+                <p>・61Fから70Fまでのエネミーの攻撃力を調整</p>
+                <p>└獲得できる装備が少ない中で、エネミーの攻撃を阻止するために</p>
+                <p>必要な攻撃手段を得ないまま攻撃力の高いエネミーが配置された</p>
+                <p>階層のクリア率が低く、神域のプレイ自体をお楽しみいただけていない</p>
+                <p>ケースが多い状況を鑑み、70Fまでの難易度を緩和いたします。</p>
+                <hr>
+                <p>
+                    <strong>■アニマスフィアについて</strong>
+                </p>
+                <p>覚醒している仲間キャラクター全員が所持する</p>
+                <p>アニマスフィアの合計個数に応じて、</p>
+                <p>チームに編成したキャラクターの最大HPが上昇します。</p>
+                <p>&nbsp;</p>
+                <p>スフィアの数の増加については全キャラクターのアニマスフィア数の</p>
+                <p>合算となっており、下記の計算にて行われています。</p>
+                <p style="font-weight: bold; text-align: center;">
+                    <span style="font-size:16px;">■アニマスフィア獲得条件■</span>
+                </p>
+                <div align="center">
+                    <table bgcolor="#204060"
+                           cellpadding="0"
+                           cellspacing="0"
+                           style="border:2px #506070 solid;
+                                  border-collapse: collapse;
+                                  width:470px">
+                        <tbody>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">始祖久遠の塔に参加する</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋２個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">装備Lvの上限が31以上</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋１個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">装備Lvの上限が31以降+2上昇毎</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋１個&times;上昇分</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">スフィア共鳴キャラクターに該当</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋２個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">精霊装を装着</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;"><span style="font-size:14px;">※下記一覧参照</span></span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <p style="text-align: center;">
+                    <span style="font-size:12px;">※満たしたすべての条件の個数が合算されます。</span>
+                </p>
+                <p style="text-align: center;">&nbsp;</p>
+                <p style="text-align: center;">
+                    <span style="font-size:16px;"><strong>■精霊装アニマスフィア獲得数■</strong></span>
+                </p>
+                <div align="center">
+                    <table bgcolor="#204060"
+                           cellpadding="0"
+                           cellspacing="0"
+                           style="border:2px #506070 solid;
+                                  border-collapse: collapse;
+                                  width:470px">
+                        <tbody>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">精霊装レアリティ１</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋　１個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">精霊装レアリティ２</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋　２個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">精霊装レアリティ３</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋　５個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">精霊装レアリティ４</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           background-color: #305070;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋　７個</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">精霊装レアリティ５</span>
+                                </td>
+                                <td style="border:0px #506070 solid;
+                                           border-collapse: collapse;
+                                           text-align: left;
+                                           padding: 4px">
+                                    <span style="font-size:14px;">＋１０個</span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>&nbsp;</p>
+                    <p style="text-align: left;">アニマスフィア2000以降で80Fクリアされた方が確認されており、</p>
+                    <p style="text-align: left;">傾向としてはアニマスフィア及びキャラクターのLvを成長させていくにつれ、</p>
+                    <p style="text-align: left;">80Fクリア率が高い状況が確認されています。</p>
+                    <table align="center"
+                           border="1"
+                           cellpadding="1"
+                           cellspacing="1"
+                           style="width:500px">
+                        <tbody>
+                            <tr>
+                                <td style="text-align: center;">アニマスフィア数</td>
+                                <td style="text-align: center;">80Fクリア率</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">4500~5499</td>
+                                <td style="text-align: center;">4.6％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">5500～5999</td>
+                                <td style="text-align: center;">16.2％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">6000～6499</td>
+                                <td style="text-align: center;">21.3％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">6500～</td>
+                                <td style="text-align: center;">37.4％</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <hr>
+                    <p style="text-align: left;">
+                        <strong>■キャラクターLvについて</strong>
+                    </p>
+                    <p style="text-align: left;">各階層においてレベルの低いキャラクターがいる場合クリアできず、</p>
+                    <p style="text-align: left;">編成しているパーティの平均レベルが高いほど</p>
+                    <p style="text-align: left;">各階層のクリア率が高い状況となっています。</p>
+                    <table align="center"
+                           border="1"
+                           cellpadding="1"
+                           cellspacing="1"
+                           style="width:500px">
+                        <tbody>
+                            <tr>
+                                <td style="text-align: center;">最終到達階層</td>
+                                <td style="text-align: center;">平均レベル</td>
+                                <td style="text-align: center;">クリア率</td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="3" style="text-align: center;">61F~64F</td>
+                                <td style="text-align: center;">Lv60以下</td>
+                                <td style="text-align: center;">
+                                    <p>16.6％</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv61～64</td>
+                                <td style="text-align: center;">25.4％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv65以上</td>
+                                <td style="text-align: center;">58.0％</td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="3" style="text-align: center;">65F</td>
+                                <td style="text-align: center;">Lv60以下</td>
+                                <td style="text-align: center;">8.91％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv61～64</td>
+                                <td style="text-align: center;">19.1％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv65以上</td>
+                                <td style="text-align: center;">71.9％</td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="3" style="text-align: center;">66F～70F</td>
+                                <td style="text-align: center;">Lv60以下</td>
+                                <td style="text-align: center;">6.8％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv61～64</td>
+                                <td style="text-align: center;">9.0％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv65以上</td>
+                                <td style="text-align: center;">84.0％</td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="3" style="text-align: center;">71F~75F</td>
+                                <td style="text-align: center;">Lv60以下</td>
+                                <td style="text-align: center;">10.8％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv61～64</td>
+                                <td style="text-align: center;">10.8％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv65以上</td>
+                                <td style="text-align: center;">78.2％</td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="3" style="text-align: center;">76F~80F</td>
+                                <td style="text-align: center;">Lv60以下</td>
+                                <td style="text-align: center;">4.3％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv61～64</td>
+                                <td style="text-align: center;">12.3％</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Lv65以上</td>
+                                <td style="text-align: center;">83.3％</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <hr>
+                    <p style="text-align: left;">
+                        <strong>■クリティカル特攻について</strong>
+                    </p>
+                    <p style="text-align: left;">
+                        Ver4.6.0にて登場した「イベントクリティカルボーナス」では、
+                        <br>
+                        始祖久遠の塔 神域においても
+                    </p>
+                    <p style="text-align: left;">ボーナス対象の装備を所持しているだけでバトル中、</p>
+                    <p style="text-align: left;">クリティカルが発生しやすくなります。</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: left;">クリティカルボーナスの一覧については</p>
+                    <p style="text-align: left;">始祖久遠の塔の画面右上の</p>
+                    <p style="text-align: left;">『装備・魔鏡クリティカルボーナス一覧』から確認することができます。</p>
+                    <p style="text-align: left;">
+                        <br>
+                        クリティカルが発生すると味方パーティ全体が
+                    </p>
+                    <p style="text-align: left;">魔鏡技を除くすべての術技で下記の効果が発動し、</p>
+                    <p style="text-align: left;">バトルを優位に進めることができます。</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: left;">
+                        <strong>≪クリティカルボーナス中の効果≫</strong>
+                    </p>
+                    <p style="text-align: left;">
+                        <strong>・攻撃力＋50％！
+                            <br>
+                            ・回復術の効果2倍！
+                            <br>
+                            ・全ての敵の防御力を無効化！
+                            <br>
+                        ・全ての敵ののけぞり軽減を無効化＆のけぞりやすさUP！</strong>
+                    </p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <hr>
+                    <p style="text-align: left;">
+                        <strong>■覚醒スキルについて</strong>
+                    </p>
+                    <p style="text-align: left;">開催中の始祖久遠の塔 神域においてはエネミー種族、弱点属性から</p>
+                    <p style="text-align: left;">下記のスキルが有効となっています。</p>
+                    <p style="text-align: left;">始祖久遠の塔 常層の特定の階層をクリア、</p>
+                    <p style="text-align: left;">又は『久遠の書交換所』でスキルを獲得することができます。</p>
+                    <table align="center"
+                           border="1"
+                           cellpadding="1"
+                           cellspacing="1"
+                           style="width:500px">
+                        <tbody>
+                            <tr>
+                                <td style="text-align: center;">
+                                    <p>覚醒スキル名</p>
+                                    <p>(RANK3の場合の効果値)</p>
+                                </td>
+                                <td style="text-align: center;">アイコン</td>
+                                <td style="text-align: center;">説明</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">火属性術技弱点ボーナス＋30％</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35461/content_333.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                                <td colspan="1" rowspan="3" style="text-align: center;">
+                                    <p style="text-align: left;">開催中の始祖久遠の塔 神域に出現するエネミーはすべて『火』『水』『地』属性が弱点となるため、該当の属性の術技の与えるダメージが</p>
+                                    <p style="text-align: left;">増加します</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">水属性術技弱点ボーナス＋30％</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35463/content_323.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">地属性術技弱点ボーナス＋30％</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35462/content_313.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">『有翼』系からのダメージ＋24％減少</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35464/content_253.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                                <td style="text-align: center;">
+                                    <p style="text-align: left;">下記において『有翼』のエネミーが出現するため、該当のエネミーからの全ダメージが減少します</p>
+                                    <p style="text-align: left;">
+                                        <br>
+                                        ・61Fから71Fまでの全階層
+                                    </p>
+                                    <p style="text-align: left;">・73F、76F、78F</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">最大HP＋24％</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35465/content_283.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                                <td>
+                                    <p>覚醒スキルにより増加したHPに対して、さらにアニマスフィア数によるHPの増加が発生するため、戦闘をより継続することができます。</p>
+                                    <p>魔鏡技強化内容の『自身のHPが〇％回復する』の回復量もHPが増加することにより、大きくなります。</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">戦闘開始時HP12％回復</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35472/content_193.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                                <td>
+                                    <p>戦闘の開始時にHPが回復します。</p>
+                                    <p>上述の最大HP増加のスキルと合わせて、戦闘を継続させるのに有効なスキルとなります。</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">戦闘中の移動速度上昇＋30％</td>
+                                <td style="text-align: center;">
+                                    <img src="{{ s3_url }}public/uploads/ckeditor/pictures/35466/content_303.png"
+                                         style="width: 108px;
+                                                height: 108px">
+                                </td>
+                                <td>エネミーの攻撃を回避する際、移動速度が上昇すると範囲の広い攻撃でも回避できるようになる場合があります</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>&nbsp;</p>
+                    <p style="text-align: left;">
+                        <strong>■作戦について</strong>
+                    </p>
+                    <p style="text-align: left;">作戦についてはバトル中に一時停止＞キャラクターのアイコンを</p>
+                    <p style="text-align: left;">タップすることで変更することができます。</p>
+                    <p style="text-align: left;">作戦の変更によりパラメータの変動とCPUの行動が変化します。</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: left;">・『最前線で戦え』『特技を優先せよ』</p>
+                    <p style="text-align: left;">積極的に敵に攻撃を仕掛ける挙動となります。</p>
+                    <p style="text-align: left;">1対1の状況においてはCPUが敵に優勢を取る場面もありますが、</p>
+                    <p style="text-align: left;">その分、複数体の敵に取り囲まれると戦闘不能となるリスクが高まります。</p>
+                    <p style="text-align: left;">操作キャラクターで援護することで戦闘を優勢に進めることができます。</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: left;">・『回復主体で戦え』</p>
+                    <p style="text-align: left;">回復術を持つキャラクターが回復術を優先して唱える挙動となります。</p>
+                    <p style="text-align: left;">他の作戦よりも、HPの減少幅が低いうちに回復術を使用し、</p>
+                    <p style="text-align: left;">キャラクター本人の術防も上昇します。</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: left;">・『詠唱中の味方を守れ』</p>
+                    <p style="text-align: left;">詠唱中の味方を狙うエネミーを優先してターゲットにし、</p>
+                    <p style="text-align: left;">CPU同士で援護させることができます。</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: left;">他にも、各キャラクターごとに4つ作戦があります。</p>
+                    <p style="text-align: left;">獲得した術技に応じ、様々な作戦で神域に挑戦してみてください！</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    <p style="text-align: center;">引き続き『TALES OF THE RAYS』をよろしくお願い申し上げます。</p>
+                    <strong></strong>
+                </div>
+            </section>
+        </div>
+    </body>
+</html>

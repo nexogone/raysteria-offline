@@ -1,0 +1,11 @@
+{
+    "schools": [
+        {
+            "school_number": 1,
+            "mst_teacher_chara_id": 2,
+            "mst_student_chara_id": 1,
+            "school_lv": 1,
+            "school_exp": 300
+        }
+    ]
+}

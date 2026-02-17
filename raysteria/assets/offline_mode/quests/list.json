@@ -1,0 +1,557 @@
+{
+    "id": 101,
+    "chapter_type": 1,
+    "scenario_part": 1,
+    "anima_type": 4,
+    "day_type": 0,
+    "start_date": 1420038000,
+    "end_date": 4102412399,
+    "point_event": null,
+    "box_exchange_event": null,
+    "defeat_enemy_event": null,
+    "scenarios": {
+        "mst_scenario_ids": [],
+        "rewards": [],
+        "reward_charas": [],
+        "sub_episodes": [],
+        "auto_limit_break_mst_magical_mirror_ids": []
+    },
+    "quest_groups": [
+        {
+            "id": 10101,
+            "quests": [
+                {
+                    "id": 101011,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 700,
+                    "mst_enemy_ids": [
+                        1505
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": true,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101012,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 1050,
+                    "mst_enemy_ids": [
+                        1505
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10102,
+            "quests": [
+                {
+                    "id": 101021,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 800,
+                    "mst_enemy_ids": [
+                        1505
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": true,
+                    "chara_flag": true,
+                    "quest_period": null
+                },
+                {
+                    "id": 101022,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 1200,
+                    "mst_enemy_ids": [
+                        1505
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10103,
+            "quests": [
+                {
+                    "id": 101031,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1320,
+                    "mst_enemy_ids": [
+                        2904
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": true,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101032,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 1980,
+                    "mst_enemy_ids": [
+                        2904
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10104,
+            "quests": [
+                {
+                    "id": 101041,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1400,
+                    "mst_enemy_ids": [
+                        1404
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101042,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2100,
+                    "mst_enemy_ids": [
+                        1404
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10105,
+            "quests": [
+                {
+                    "id": 101051,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1480,
+                    "mst_enemy_ids": [
+                        1204
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": true,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101052,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2220,
+                    "mst_enemy_ids": [
+                        1204
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10106,
+            "quests": [
+                {
+                    "id": 101061,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1520,
+                    "mst_enemy_ids": [
+                        1204
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101062,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2280,
+                    "mst_enemy_ids": [
+                        1204
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10107,
+            "quests": [
+                {
+                    "id": 101071,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1560,
+                    "mst_enemy_ids": [
+                        1404
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101072,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2340,
+                    "mst_enemy_ids": [
+                        1404
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10108,
+            "quests": [
+                {
+                    "id": 101081,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1640,
+                    "mst_enemy_ids": [
+                        1505
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": true,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101082,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2460,
+                    "mst_enemy_ids": [
+                        1505
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10109,
+            "quests": [
+                {
+                    "id": 101091,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1720,
+                    "mst_enemy_ids": [
+                        2105
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101092,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2580,
+                    "mst_enemy_ids": [
+                        2105
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        },
+        {
+            "id": 10110,
+            "quests": [
+                {
+                    "id": 101101,
+                    "quest_type": 1,
+                    "ap": 0,
+                    "battle_power": 1800,
+                    "mst_enemy_ids": [
+                        2904
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": true,
+                    "chara_flag": false,
+                    "quest_period": null
+                },
+                {
+                    "id": 101102,
+                    "quest_type": 2,
+                    "ap": 0,
+                    "battle_power": 2700,
+                    "mst_enemy_ids": [
+                        2904
+                    ],
+                    "quest_campaigns": [],
+                    "clear_status": 4,
+                    "quest_mission1_flag": true,
+                    "quest_mission2_flag": true,
+                    "quest_mission3_flag": true,
+                    "mst_usable_chara_ids": [],
+                    "usable_charas_possess_flag": true,
+                    "scenario_flag": false,
+                    "chara_flag": false,
+                    "quest_period": null
+                }
+            ]
+        }
+    ],
+    "conquest_event": null,
+    "vote_event": {},
+    "chapter_challenge_num_info": {
+        "reset_type": 0,
+        "challenge_num_max": 0,
+        "current_challenge_num": 0,
+        "time_limit": 0
+    },
+    "weapon_num": 737,
+    "weapon_num_max": 10000,
+    "magical_mirror_num": 134,
+    "magical_mirror_num_max": 10000,
+    "game_mission_progresses": [],
+    "collection_mission_complete_num": 0,
+    "warehouse_statuses": [
+        {
+            "warehouse_type": 1,
+            "warehouse_number": 1,
+            "item_num": 0,
+            "item_max_num": 300
+        }
+    ],
+    "user": {
+        "name": "NeXoGone",
+        "gald": 89760082,
+        "message": "よろしくお願いします！",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 7438,
+        "ap_max": 165,
+        "ap_orb": 0,
+        "ap_recovery_at": 1721264059,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1721264059,
+        "jewel": 0,
+        "jewel_pay": 0,
+        "jewel_free": 0,
+        "diamond": 1963,
+        "last_login_at": 1721256981,
+        "prism": 2352,
+        "friend_point": 400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 450,
+        "user_voice_packs": [],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    }
+}

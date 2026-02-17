@@ -1,0 +1,1091 @@
+{
+    "mst_point_event_exchange_id": 4071,
+    "end_date": 1722038860,
+    "reset_date": 0,
+    "mst_point_event_ids": [],
+    "point_event_exchange_items": [
+        {
+            "mst_point_event_exchange_item_id": 407001,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 181202,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 5000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 1722211660
+        },
+        {
+            "mst_point_event_exchange_item_id": 407002,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 181202,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 10000,
+            "max_count": 5,
+            "exchange_item_status": 3,
+            "end_date": 1722211660
+        },
+        {
+            "mst_point_event_exchange_item_id": 407077,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 181202,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 5000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 1722211660
+        },
+        {
+            "mst_point_event_exchange_item_id": 407078,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 181202,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 10000,
+            "max_count": 5,
+            "exchange_item_status": 3,
+            "end_date": 1722211660
+        },
+        {
+            "mst_point_event_exchange_item_id": 407003,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 864003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 3000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407004,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 864003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 10000,
+            "max_count": 4,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407011,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 8701,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407012,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 8702,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 40000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407013,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 8601,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407014,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 8602,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 40000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407015,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 5001,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407016,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 5002,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 40000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407017,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 1001,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 1,
+            "exchange_item_status": 2,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407018,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 1002,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 40000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407019,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 7201,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407020,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 7202,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 40000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407025,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 101,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 300,
+            "max_count": 1,
+            "exchange_item_status": 2,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407026,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 102,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 3000,
+            "max_count": 1,
+            "exchange_item_status": 2,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407027,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 201,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 300,
+            "max_count": 1,
+            "exchange_item_status": 2,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407028,
+            "reward": {
+                "reward_type": 17,
+                "reward_value": 202,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 3000,
+            "max_count": 1,
+            "exchange_item_status": 2,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407029,
+            "reward": {
+                "reward_type": 10,
+                "reward_value": 8610001,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407031,
+            "reward": {
+                "reward_type": 11,
+                "reward_value": 86002,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 200000,
+            "max_count": 1,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407037,
+            "reward": {
+                "reward_type": 16,
+                "reward_value": 1001,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 50,
+            "max_count": 100,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407038,
+            "reward": {
+                "reward_type": 16,
+                "reward_value": 2001,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 300,
+            "max_count": 60,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407039,
+            "reward": {
+                "reward_type": 14,
+                "reward_value": 1,
+                "reward_num": 8000
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 100,
+            "max_count": 100,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407040,
+            "reward": {
+                "reward_type": 14,
+                "reward_value": 1,
+                "reward_num": 40000
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 200,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407041,
+            "reward": {
+                "reward_type": 14,
+                "reward_value": 1,
+                "reward_num": 40000
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 200,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407042,
+            "reward": {
+                "reward_type": 14,
+                "reward_value": 1,
+                "reward_num": 40000
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 200,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407043,
+            "reward": {
+                "reward_type": 14,
+                "reward_value": 1,
+                "reward_num": 40000
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 200,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407044,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 1001,
+                "reward_num": 10
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 500,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407045,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 1002,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 750,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407046,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 1003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 300,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407047,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 4001,
+                "reward_num": 10
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 500,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407048,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 4002,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 750,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407049,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 4003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 300,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407050,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 2001,
+                "reward_num": 10
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 500,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407051,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 2002,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 750,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407052,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 2003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 300,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407053,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 3001,
+                "reward_num": 10
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 500,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407054,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 3002,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 750,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407055,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 3003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 300,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407056,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 5001,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 100,
+            "max_count": 20,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407057,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 5002,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 500,
+            "max_count": 10,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407058,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 5003,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 5,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407059,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6701,
+                "reward_num": 1
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 4000,
+            "max_count": 5,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407060,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6001,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1000,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407061,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6002,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 900,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407062,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6101,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1000,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407063,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6102,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 900,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407064,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6201,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1000,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407065,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6202,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 900,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407066,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6401,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1000,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407067,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6402,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 900,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407068,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6301,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1000,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407069,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6302,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 900,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407070,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6501,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1800,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407071,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6502,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 1500,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407072,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6601,
+                "reward_num": 5
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 1800,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407073,
+            "reward": {
+                "reward_type": 15,
+                "reward_value": 6602,
+                "reward_num": 3
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 1500,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407074,
+            "reward": {
+                "reward_type": 1,
+                "reward_value": 0,
+                "reward_num": 15000
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 300,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407075,
+            "reward": {
+                "reward_type": 1,
+                "reward_value": 0,
+                "reward_num": 25000
+            },
+            "mst_point_event_item_id": 4072,
+            "require_num": 100,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        },
+        {
+            "mst_point_event_exchange_item_id": 407076,
+            "reward": {
+                "reward_type": 18,
+                "reward_value": 4072,
+                "reward_num": 30
+            },
+            "mst_point_event_item_id": 4071,
+            "require_num": 100,
+            "max_count": 0,
+            "exchange_item_status": 3,
+            "end_date": 0
+        }
+    ],
+    "user": {
+        "name": "NeXoGone",
+        "gald": 89760082,
+        "message": "よろしくお願いします！",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 7438,
+        "ap_max": 165,
+        "ap_orb": 0,
+        "ap_recovery_at": 1721264115,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1721264115,
+        "jewel": 0,
+        "jewel_pay": 0,
+        "jewel_free": 0,
+        "diamond": 1963,
+        "last_login_at": 1721256981,
+        "prism": 2352,
+        "friend_point": 400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 450,
+        "user_voice_packs": [],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    },
+    "point_event_items": [
+        {
+            "id": 4071,
+            "num": 0
+        },
+        {
+            "id": 4072,
+            "num": 0
+        }
+    ],
+    "point_event_exchange_mission_progresses": [],
+    "weapon_summaries": [],
+    "magical_mirror_summaries": [],
+    "possession_equipment_nums": {
+        "weapon_num": 737,
+        "weapon_num_max": 10000,
+        "magical_mirror_num": 134,
+        "magical_mirror_num_max": 10000,
+        "fairys_dress_num": 3,
+        "fairys_dress_num_max": 1000
+    },
+    "material_possessions": [
+        {
+            "reward_type": 8,
+            "reward_value": 181202,
+            "possession_num": 0
+        },
+        {
+            "reward_type": 16,
+            "reward_value": 1001,
+            "possession_num": 1138
+        },
+        {
+            "reward_type": 16,
+            "reward_value": 2001,
+            "possession_num": 45
+        },
+        {
+            "reward_type": 14,
+            "reward_value": 1,
+            "possession_num": 2053036
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 1001,
+            "possession_num": 271
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 1002,
+            "possession_num": 196
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 1003,
+            "possession_num": 230
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 4001,
+            "possession_num": 79
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 4002,
+            "possession_num": 228
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 4003,
+            "possession_num": 241
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 2001,
+            "possession_num": 130
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 2002,
+            "possession_num": 55
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 2003,
+            "possession_num": 201
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 3001,
+            "possession_num": 142
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 3002,
+            "possession_num": 87
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 3003,
+            "possession_num": 181
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 5001,
+            "possession_num": 2900
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 5002,
+            "possession_num": 1300
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 5003,
+            "possession_num": 512
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6701,
+            "possession_num": 49
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6001,
+            "possession_num": 42
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6002,
+            "possession_num": 8
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6101,
+            "possession_num": 67
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6102,
+            "possession_num": 135
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6201,
+            "possession_num": 217
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6202,
+            "possession_num": 10
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6401,
+            "possession_num": 73
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6402,
+            "possession_num": 12
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6301,
+            "possession_num": 263
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6302,
+            "possession_num": 50
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6501,
+            "possession_num": 111
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6502,
+            "possession_num": 14
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6601,
+            "possession_num": 231
+        },
+        {
+            "reward_type": 15,
+            "reward_value": 6602,
+            "possession_num": 26
+        }
+    ]
+}

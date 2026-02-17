@@ -1,0 +1,165 @@
+{
+    "rare_prism_exchange_items": [
+        {
+            "mst_rare_prism_exchange_item_id": 21003,
+            "reward": {
+                "reward_type": 21,
+                "reward_value": 2302288,
+                "reward_num": 1
+            },
+            "require_num": 250,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_rare_prism_exchange_item_id": 8003,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 230232,
+                "reward_num": 1
+            },
+            "require_num": 40,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_rare_prism_exchange_item_id": 21001,
+            "reward": {
+                "reward_type": 21,
+                "reward_value": 1811301,
+                "reward_num": 1
+            },
+            "require_num": 150,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_rare_prism_exchange_item_id": 8001,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 181114,
+                "reward_num": 1
+            },
+            "require_num": 25,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_rare_prism_exchange_item_id": 21002,
+            "reward": {
+                "reward_type": 21,
+                "reward_value": 200304,
+                "reward_num": 1
+            },
+            "require_num": 60,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_rare_prism_exchange_item_id": 8002,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 200303,
+                "reward_num": 1
+            },
+            "require_num": 10,
+            "max_count": 0,
+            "exchange_item_status": 3
+        }
+    ],
+    "rare_prism_num": 0,
+    "possession_equipment_nums": {
+        "weapon_num": 737,
+        "weapon_num_max": 10000,
+        "magical_mirror_num": 134,
+        "magical_mirror_num_max": 10000,
+        "fairys_dress_num": 3,
+        "fairys_dress_num_max": 1000
+    },
+    "user": {
+        "name": "NeXoGone",
+        "gald": 89760082,
+        "message": "よろしくお願いします！",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 7438,
+        "ap_max": 165,
+        "ap_orb": 0,
+        "ap_recovery_at": 1721263955,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1721263955,
+        "jewel": 0,
+        "jewel_pay": 0,
+        "jewel_free": 0,
+        "diamond": 1963,
+        "last_login_at": 1721256981,
+        "prism": 2352,
+        "friend_point": 400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 450,
+        "user_voice_packs": [],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    },
+    "weapon_summaries": [],
+    "magical_mirror_summaries": []
+}

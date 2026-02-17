@@ -1,0 +1,1839 @@
+{
+    "magical_mirror_num": 134,
+    "magical_mirror_num_max": 10000,
+    "magical_mirrors": [
+        {
+            "user_magical_mirror_sid": 1,
+            "mst_magical_mirror_id": 210001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 2,
+            "mst_magical_mirror_id": 2810002,
+            "lv": 1,
+            "limit_break_phase": 3,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 28,
+            "support_flag": true
+        },
+        {
+            "user_magical_mirror_sid": 3,
+            "mst_magical_mirror_id": 2810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 28,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 4,
+            "mst_magical_mirror_id": 110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 1,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 5,
+            "mst_magical_mirror_id": 3310002,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 33,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 6,
+            "mst_magical_mirror_id": 4810007,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 2,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 48,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 7,
+            "mst_magical_mirror_id": 10610003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 106,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 8,
+            "mst_magical_mirror_id": 4510002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 45,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 9,
+            "mst_magical_mirror_id": 210002,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 2,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 10,
+            "mst_magical_mirror_id": 7410002,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 74,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 12,
+            "mst_magical_mirror_id": 2910002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 29,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 13,
+            "mst_magical_mirror_id": 20210002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 2,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 202,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 14,
+            "mst_magical_mirror_id": 23010002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 230,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 15,
+            "mst_magical_mirror_id": 25410002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 254,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 16,
+            "mst_magical_mirror_id": 3610002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 3,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 36,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 17,
+            "mst_magical_mirror_id": 11810002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 3,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 118,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 18,
+            "mst_magical_mirror_id": 2710003,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 27,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 19,
+            "mst_magical_mirror_id": 110002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 3,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 1,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 20,
+            "mst_magical_mirror_id": 4010002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 2,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 40,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 21,
+            "mst_magical_mirror_id": 4610006,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 46,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 23,
+            "mst_magical_mirror_id": 4810003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 24,
+            "mst_magical_mirror_id": 8310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 83,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 25,
+            "mst_magical_mirror_id": 30110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 26,
+            "mst_magical_mirror_id": 30210001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 27,
+            "mst_magical_mirror_id": 9010001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 90,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 28,
+            "mst_magical_mirror_id": 9110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 91,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 29,
+            "mst_magical_mirror_id": 1910001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 19,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 30,
+            "mst_magical_mirror_id": 2010001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 20,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 32,
+            "mst_magical_mirror_id": 11610002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 116,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 33,
+            "mst_magical_mirror_id": 16310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 163,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 34,
+            "mst_magical_mirror_id": 1810002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 18,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 35,
+            "mst_magical_mirror_id": 5510002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 55,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 36,
+            "mst_magical_mirror_id": 7310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 73,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 37,
+            "mst_magical_mirror_id": 8910002,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 3,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 89,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 38,
+            "mst_magical_mirror_id": 25410003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 254,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 39,
+            "mst_magical_mirror_id": 7610005,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 1,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 76,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 40,
+            "mst_magical_mirror_id": 10810002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 108,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 42,
+            "mst_magical_mirror_id": 9810002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 98,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 44,
+            "mst_magical_mirror_id": 4810002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 48,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 45,
+            "mst_magical_mirror_id": 2510001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 25,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 46,
+            "mst_magical_mirror_id": 610003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 6,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 47,
+            "mst_magical_mirror_id": 10810004,
+            "lv": 1,
+            "limit_break_phase": 2,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 108,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 48,
+            "mst_magical_mirror_id": 1410001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 14,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 49,
+            "mst_magical_mirror_id": 7710002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 77,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 51,
+            "mst_magical_mirror_id": 6610004,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 1,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 66,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 52,
+            "mst_magical_mirror_id": 3110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 31,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 53,
+            "mst_magical_mirror_id": 2710001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 27,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 54,
+            "mst_magical_mirror_id": 510001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 5,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 55,
+            "mst_magical_mirror_id": 710001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 56,
+            "mst_magical_mirror_id": 810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 57,
+            "mst_magical_mirror_id": 4210003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 42,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 58,
+            "mst_magical_mirror_id": 4310001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 43,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 59,
+            "mst_magical_mirror_id": 610001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 6,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 60,
+            "mst_magical_mirror_id": 12910003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 129,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 61,
+            "mst_magical_mirror_id": 29910002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 299,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 62,
+            "mst_magical_mirror_id": 12910002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 129,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 63,
+            "mst_magical_mirror_id": 1110002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 11,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 64,
+            "mst_magical_mirror_id": 1610002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 16,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 65,
+            "mst_magical_mirror_id": 12510002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 125,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 66,
+            "mst_magical_mirror_id": 4910004,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 49,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 67,
+            "mst_magical_mirror_id": 7110005,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 71,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 68,
+            "mst_magical_mirror_id": 18310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 183,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 69,
+            "mst_magical_mirror_id": 910001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 9,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 70,
+            "mst_magical_mirror_id": 11810004,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 3,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 118,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 71,
+            "mst_magical_mirror_id": 8210003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 82,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 72,
+            "mst_magical_mirror_id": 4410004,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 44,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 73,
+            "mst_magical_mirror_id": 1410005,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 14,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 74,
+            "mst_magical_mirror_id": 28310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 283,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 75,
+            "mst_magical_mirror_id": 10710006,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 107,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 76,
+            "mst_magical_mirror_id": 6310004,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 63,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 77,
+            "mst_magical_mirror_id": 11710003,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 78,
+            "mst_magical_mirror_id": 3810005,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 38,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 79,
+            "mst_magical_mirror_id": 8910003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 89,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 80,
+            "mst_magical_mirror_id": 6010003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 60,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 81,
+            "mst_magical_mirror_id": 28210002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 282,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 82,
+            "mst_magical_mirror_id": 15410003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 154,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 83,
+            "mst_magical_mirror_id": 9310002,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 93,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 85,
+            "mst_magical_mirror_id": 4610002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 86,
+            "mst_magical_mirror_id": 7510003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 75,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 87,
+            "mst_magical_mirror_id": 14510002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 145,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 88,
+            "mst_magical_mirror_id": 19810003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 198,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 90,
+            "mst_magical_mirror_id": 2310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 23,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 91,
+            "mst_magical_mirror_id": 18410002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 1,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 184,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 92,
+            "mst_magical_mirror_id": 16710002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 167,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 93,
+            "mst_magical_mirror_id": 21310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 213,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 94,
+            "mst_magical_mirror_id": 13910001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 95,
+            "mst_magical_mirror_id": 10810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 96,
+            "mst_magical_mirror_id": 15610001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 156,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 97,
+            "mst_magical_mirror_id": 23010001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 230,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 98,
+            "mst_magical_mirror_id": 13310003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 133,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 99,
+            "mst_magical_mirror_id": 15210002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 152,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 100,
+            "mst_magical_mirror_id": 3610001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 36,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 101,
+            "mst_magical_mirror_id": 5010001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 102,
+            "mst_magical_mirror_id": 10710001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 107,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 103,
+            "mst_magical_mirror_id": 2510003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 3,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 25,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 104,
+            "mst_magical_mirror_id": 1910003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 106,
+            "mst_magical_mirror_id": 30310002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 303,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 107,
+            "mst_magical_mirror_id": 30310001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 303,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 108,
+            "mst_magical_mirror_id": 10510004,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 105,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 109,
+            "mst_magical_mirror_id": 3710001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 37,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 110,
+            "mst_magical_mirror_id": 310001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 111,
+            "mst_magical_mirror_id": 410001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 112,
+            "mst_magical_mirror_id": 2310003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 23,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 115,
+            "mst_magical_mirror_id": 1110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 11,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 116,
+            "mst_magical_mirror_id": 4810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 117,
+            "mst_magical_mirror_id": 1210001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 118,
+            "mst_magical_mirror_id": 5510001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 120,
+            "mst_magical_mirror_id": 11210003,
+            "lv": 1,
+            "limit_break_phase": 2,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 121,
+            "mst_magical_mirror_id": 27710003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 5,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 277,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 122,
+            "mst_magical_mirror_id": 2210002,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 22,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 125,
+            "mst_magical_mirror_id": 1710001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 126,
+            "mst_magical_mirror_id": 5110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 127,
+            "mst_magical_mirror_id": 8010001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 128,
+            "mst_magical_mirror_id": 4410001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 129,
+            "mst_magical_mirror_id": 9310001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 130,
+            "mst_magical_mirror_id": 6710001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 131,
+            "mst_magical_mirror_id": 6210001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 132,
+            "mst_magical_mirror_id": 5810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 133,
+            "mst_magical_mirror_id": 32110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 134,
+            "mst_magical_mirror_id": 10610001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 135,
+            "mst_magical_mirror_id": 7510001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 137,
+            "mst_magical_mirror_id": 3010004,
+            "lv": 1,
+            "limit_break_phase": 1,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 30,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 138,
+            "mst_magical_mirror_id": 13810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 141,
+            "mst_magical_mirror_id": 28210003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 142,
+            "mst_magical_mirror_id": 20210001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 143,
+            "mst_magical_mirror_id": 3810001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 144,
+            "mst_magical_mirror_id": 20110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 145,
+            "mst_magical_mirror_id": 27110001,
+            "lv": 25,
+            "limit_break_phase": 4,
+            "mirrorge_arte_lv": 5,
+            "exp": 56365,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 147,
+            "mst_magical_mirror_id": 17110003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 148,
+            "mst_magical_mirror_id": 15210005,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 149,
+            "mst_magical_mirror_id": 7510002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 150,
+            "mst_magical_mirror_id": 17010002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 151,
+            "mst_magical_mirror_id": 7310003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        },
+        {
+            "user_magical_mirror_sid": 152,
+            "mst_magical_mirror_id": 20710002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "mirrorge_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": true,
+            "burst_limit_phase": 0,
+            "mst_chara_id": 0,
+            "support_flag": false
+        }
+    ],
+    "reinforce_materials": [],
+    "arte_materials": [
+        {
+            "mst_arte_material_id": 1001,
+            "num": 271
+        },
+        {
+            "mst_arte_material_id": 1002,
+            "num": 196
+        },
+        {
+            "mst_arte_material_id": 1003,
+            "num": 230
+        },
+        {
+            "mst_arte_material_id": 2001,
+            "num": 130
+        },
+        {
+            "mst_arte_material_id": 2002,
+            "num": 55
+        },
+        {
+            "mst_arte_material_id": 2003,
+            "num": 201
+        },
+        {
+            "mst_arte_material_id": 3001,
+            "num": 142
+        },
+        {
+            "mst_arte_material_id": 3002,
+            "num": 87
+        },
+        {
+            "mst_arte_material_id": 3003,
+            "num": 181
+        },
+        {
+            "mst_arte_material_id": 4001,
+            "num": 79
+        },
+        {
+            "mst_arte_material_id": 4002,
+            "num": 228
+        },
+        {
+            "mst_arte_material_id": 4003,
+            "num": 241
+        },
+        {
+            "mst_arte_material_id": 5001,
+            "num": 2900
+        },
+        {
+            "mst_arte_material_id": 5002,
+            "num": 1300
+        },
+        {
+            "mst_arte_material_id": 5003,
+            "num": 512
+        },
+        {
+            "mst_arte_material_id": 6001,
+            "num": 42
+        },
+        {
+            "mst_arte_material_id": 6002,
+            "num": 8
+        },
+        {
+            "mst_arte_material_id": 6101,
+            "num": 67
+        },
+        {
+            "mst_arte_material_id": 6102,
+            "num": 135
+        },
+        {
+            "mst_arte_material_id": 6201,
+            "num": 217
+        },
+        {
+            "mst_arte_material_id": 6202,
+            "num": 10
+        },
+        {
+            "mst_arte_material_id": 6301,
+            "num": 263
+        },
+        {
+            "mst_arte_material_id": 6302,
+            "num": 50
+        },
+        {
+            "mst_arte_material_id": 6401,
+            "num": 73
+        },
+        {
+            "mst_arte_material_id": 6402,
+            "num": 12
+        },
+        {
+            "mst_arte_material_id": 6501,
+            "num": 111
+        },
+        {
+            "mst_arte_material_id": 6502,
+            "num": 14
+        },
+        {
+            "mst_arte_material_id": 6601,
+            "num": 231
+        },
+        {
+            "mst_arte_material_id": 6602,
+            "num": 26
+        },
+        {
+            "mst_arte_material_id": 6701,
+            "num": 49
+        },
+        {
+            "mst_arte_material_id": 7011,
+            "num": 5
+        },
+        {
+            "mst_arte_material_id": 7021,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7031,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7041,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7051,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7061,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7071,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7081,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7091,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7101,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7111,
+            "num": 10
+        },
+        {
+            "mst_arte_material_id": 7121,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7131,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7141,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7151,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7161,
+            "num": 10
+        },
+        {
+            "mst_arte_material_id": 7171,
+            "num": 11
+        },
+        {
+            "mst_arte_material_id": 7181,
+            "num": 12
+        },
+        {
+            "mst_arte_material_id": 7191,
+            "num": 10
+        },
+        {
+            "mst_arte_material_id": 7201,
+            "num": 1
+        },
+        {
+            "mst_arte_material_id": 7211,
+            "num": 1
+        },
+        {
+            "mst_arte_material_id": 7221,
+            "num": 1
+        },
+        {
+            "mst_arte_material_id": 7231,
+            "num": 1
+        },
+        {
+            "mst_arte_material_id": 7241,
+            "num": 2
+        },
+        {
+            "mst_arte_material_id": 7461,
+            "num": 9
+        }
+    ],
+    "burst_limit_pieces": [],
+    "mst_campaign_id": 0
+}

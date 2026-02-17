@@ -1,0 +1,503 @@
+{
+    "mst_knockout_tower_point_exchange_id": 2406,
+    "knockout_tower_point_exchange_items": [
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406034,
+            "reward": {
+                "reward_type": 51,
+                "reward_value": 1,
+                "reward_num": 1
+            },
+            "amount": 500,
+            "max_count": 20,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406035,
+            "reward": {
+                "reward_type": 51,
+                "reward_value": 1,
+                "reward_num": 1
+            },
+            "amount": 5000,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406001,
+            "reward": {
+                "reward_type": 18,
+                "reward_value": 2002283,
+                "reward_num": 1
+            },
+            "amount": 10000,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406002,
+            "reward": {
+                "reward_type": 18,
+                "reward_value": 9000,
+                "reward_num": 1
+            },
+            "amount": 500,
+            "max_count": 20,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406003,
+            "reward": {
+                "reward_type": 45,
+                "reward_value": 1,
+                "reward_num": 1
+            },
+            "amount": 500,
+            "max_count": 0,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406006,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 191113,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406007,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 190809,
+                "reward_num": 1
+            },
+            "amount": 1000,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406008,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 190810,
+                "reward_num": 1
+            },
+            "amount": 1000,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406009,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 240109,
+                "reward_num": 1
+            },
+            "amount": 100,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406010,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 240109,
+                "reward_num": 1
+            },
+            "amount": 250,
+            "max_count": 2,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406011,
+            "reward": {
+                "reward_type": 8,
+                "reward_value": 240109,
+                "reward_num": 1
+            },
+            "amount": 500,
+            "max_count": 3,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406012,
+            "reward": {
+                "reward_type": 33,
+                "reward_value": 101,
+                "reward_num": 10
+            },
+            "amount": 100,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406013,
+            "reward": {
+                "reward_type": 33,
+                "reward_value": 101,
+                "reward_num": 10
+            },
+            "amount": 300,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406014,
+            "reward": {
+                "reward_type": 33,
+                "reward_value": 201,
+                "reward_num": 10
+            },
+            "amount": 100,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406015,
+            "reward": {
+                "reward_type": 33,
+                "reward_value": 201,
+                "reward_num": 10
+            },
+            "amount": 300,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406016,
+            "reward": {
+                "reward_type": 33,
+                "reward_value": 10501,
+                "reward_num": 6
+            },
+            "amount": 100,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406017,
+            "reward": {
+                "reward_type": 33,
+                "reward_value": 10501,
+                "reward_num": 6
+            },
+            "amount": 300,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406018,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 315001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406019,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 795001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406020,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 1385001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406021,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 2605001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406022,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 1615001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406023,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 35001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406024,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 665001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406025,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 3215001,
+                "reward_num": 1
+            },
+            "amount": 2500,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406033,
+            "reward": {
+                "reward_type": 9,
+                "reward_value": 15005,
+                "reward_num": 1
+            },
+            "amount": 5000,
+            "max_count": 1,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406026,
+            "reward": {
+                "reward_type": 38,
+                "reward_value": 1,
+                "reward_num": 1
+            },
+            "amount": 50,
+            "max_count": 5,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406027,
+            "reward": {
+                "reward_type": 38,
+                "reward_value": 1,
+                "reward_num": 1
+            },
+            "amount": 100,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406028,
+            "reward": {
+                "reward_type": 38,
+                "reward_value": 1,
+                "reward_num": 1
+            },
+            "amount": 200,
+            "max_count": 10,
+            "exchange_item_status": 3
+        },
+        {
+            "mst_knockout_tower_point_exchange_id": 2406,
+            "mst_knockout_tower_point_exchange_item_id": 2406029,
+            "reward": {
+                "reward_type": 22,
+                "reward_value": 101,
+                "reward_num": 1
+            },
+            "amount": 50,
+            "max_count": 0,
+            "exchange_item_status": 3
+        }
+    ],
+    "end_date": 1721660399,
+    "possession_equipment_nums": {
+        "weapon_num": 737,
+        "weapon_num_max": 10000,
+        "magical_mirror_num": 134,
+        "magical_mirror_num_max": 10000,
+        "fairys_dress_num": 3,
+        "fairys_dress_num_max": 1000
+    },
+    "weapon_summaries": [
+        {
+            "mst_weapon_id": 35001,
+            "possession_num": 1,
+            "max_limit_break_phase": 0
+        },
+        {
+            "mst_weapon_id": 3215001,
+            "possession_num": 1,
+            "max_limit_break_phase": 0
+        }
+    ],
+    "magical_mirror_summaries": [],
+    "material_possessions": [
+        {
+            "reward_type": 8,
+            "reward_value": 191113,
+            "possession_num": 0
+        },
+        {
+            "reward_type": 8,
+            "reward_value": 190809,
+            "possession_num": 0
+        },
+        {
+            "reward_type": 8,
+            "reward_value": 190810,
+            "possession_num": 0
+        },
+        {
+            "reward_type": 8,
+            "reward_value": 240109,
+            "possession_num": 0
+        },
+        {
+            "reward_type": 38,
+            "reward_value": 1,
+            "possession_num": 3
+        },
+        {
+            "reward_type": 22,
+            "reward_value": 101,
+            "possession_num": 5
+        }
+    ],
+    "user": {
+        "name": "NeXoGone",
+        "gald": 89760082,
+        "message": "よろしくお願いします！",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 7438,
+        "ap_max": 165,
+        "ap_orb": 0,
+        "ap_recovery_at": 1721264115,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1721264115,
+        "jewel": 0,
+        "jewel_pay": 0,
+        "jewel_free": 0,
+        "diamond": 1963,
+        "last_login_at": 1721256981,
+        "prism": 2352,
+        "friend_point": 400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 450,
+        "user_voice_packs": [],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    }
+}

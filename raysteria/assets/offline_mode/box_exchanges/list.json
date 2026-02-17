@@ -1,0 +1,229 @@
+{
+    "box_exchanges": [],
+    "fairys_dress_pieces": [
+        {
+            "mst_fairys_dress_piece_id": 101,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 201,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 301,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 501,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 601,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 901,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 1001,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 1201,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 1401,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 1701,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 1901,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 2001,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 2101,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 2201,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 2401,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 2501,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 2701,
+            "num": 56
+        },
+        {
+            "mst_fairys_dress_piece_id": 2801,
+            "num": 60
+        },
+        {
+            "mst_fairys_dress_piece_id": 2901,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 3001,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 3101,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 3701,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 3901,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 4001,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 4101,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 4301,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 4601,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 4701,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 4801,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 5001,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 5101,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 5201,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 5301,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 5401,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 5501,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 5701,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 5801,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 5901,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 6201,
+            "num": 16
+        },
+        {
+            "mst_fairys_dress_piece_id": 6601,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 7101,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 7301,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 7501,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 7701,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 7901,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 8001,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 8601,
+            "num": 134
+        },
+        {
+            "mst_fairys_dress_piece_id": 9801,
+            "num": 7
+        },
+        {
+            "mst_fairys_dress_piece_id": 10201,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 10501,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 11101,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 15601,
+            "num": 10
+        },
+        {
+            "mst_fairys_dress_piece_id": 16301,
+            "num": 9
+        },
+        {
+            "mst_fairys_dress_piece_id": 20601,
+            "num": 8
+        },
+        {
+            "mst_fairys_dress_piece_id": 25301,
+            "num": 6
+        },
+        {
+            "mst_fairys_dress_piece_id": 25401,
+            "num": 7
+        }
+    ]
+}

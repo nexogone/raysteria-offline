@@ -1,0 +1,59 @@
+{
+    "point_event_exchange_list": [
+        {
+            "mst_point_event_exchange_id": 7222,
+            "end_date": 1721660399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 7081,
+            "end_date": 4102412399,
+            "reset_date": 1722438000
+        },
+        {
+            "mst_point_event_exchange_id": 2208211,
+            "end_date": 4102379999,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 5684,
+            "end_date": 4102412399,
+            "reset_date": 1722438000
+        },
+        {
+            "mst_point_event_exchange_id": 2002283,
+            "end_date": 4102412399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 2002282,
+            "end_date": 4102412399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 2002281,
+            "end_date": 4102412399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 5772,
+            "end_date": 4102412399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 9000,
+            "end_date": 4102412399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 2005201,
+            "end_date": 4102412399,
+            "reset_date": 0
+        },
+        {
+            "mst_point_event_exchange_id": 4071,
+            "end_date": 1722038860,
+            "reset_date": 0
+        }
+    ]
+}

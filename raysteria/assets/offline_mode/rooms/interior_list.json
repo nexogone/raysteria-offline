@@ -1,0 +1,20 @@
+{
+    "interiors": [
+        {
+            "mst_room_interior_id": 1,
+            "room_number": 0
+        },
+        {
+            "mst_room_interior_id": 2,
+            "room_number": 0
+        },
+        {
+            "mst_room_interior_id": 3,
+            "room_number": 0
+        },
+        {
+            "mst_room_interior_id": 4,
+            "room_number": 1
+        }
+    ]
+}

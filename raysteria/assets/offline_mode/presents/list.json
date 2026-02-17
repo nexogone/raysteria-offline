@@ -1,0 +1,99 @@
+{
+    "presents": [
+        {
+            "user_present_id": 502112712,
+            "description": "ミラ=マクスウェルからのプレゼントです",
+            "reward_type": 30,
+            "reward_value": 2,
+            "reward_num": 1,
+            "expired_at": 1723847145,
+            "created_at": 1721255145
+        },
+        {
+            "user_present_id": 502108821,
+            "description": "週間ログインボーナスの報酬です",
+            "reward_type": 30,
+            "reward_value": 2,
+            "reward_num": 1,
+            "expired_at": 1723845568,
+            "created_at": 1721253568
+        },
+        {
+            "user_present_id": 502108822,
+            "description": "フィナーレ記念　ログインボーナスの報酬です",
+            "reward_type": 2,
+            "reward_value": 0,
+            "reward_num": 100,
+            "expired_at": 1723845568,
+            "created_at": 1721253568
+        },
+        {
+            "user_present_id": 502108823,
+            "description": "遊んでくれてありがとう！感謝のログインボーナス10話目の報酬です。",
+            "reward_type": 2,
+            "reward_value": 0,
+            "reward_num": 2703,
+            "expired_at": 1723845568,
+            "created_at": 1721253568
+        },
+        {
+            "user_present_id": 502010280,
+            "description": "モリスンからのプレゼントです",
+            "reward_type": 30,
+            "reward_value": 19061401,
+            "reward_num": 1,
+            "expired_at": 1723767996,
+            "created_at": 1721175996
+        },
+        {
+            "user_present_id": 502003095,
+            "description": "ミラ=マクスウェルからのプレゼントです",
+            "reward_type": 16,
+            "reward_value": 2001,
+            "reward_num": 3,
+            "expired_at": 1723762747,
+            "created_at": 1721170748
+        },
+        {
+            "user_present_id": 502002627,
+            "description": "週間ログインボーナスの報酬です",
+            "reward_type": 15,
+            "reward_value": 2001,
+            "reward_num": 15,
+            "expired_at": 1723762449,
+            "created_at": 1721170449
+        },
+        {
+            "user_present_id": 502002628,
+            "description": "週間ログインボーナスの報酬です",
+            "reward_type": 15,
+            "reward_value": 4001,
+            "reward_num": 15,
+            "expired_at": 1723762449,
+            "created_at": 1721170449
+        },
+        {
+            "user_present_id": 502002629,
+            "description": "フィナーレ記念　ログインボーナスの報酬です",
+            "reward_type": 2,
+            "reward_value": 0,
+            "reward_num": 100,
+            "expired_at": 1723762449,
+            "created_at": 1721170449
+        },
+        {
+            "user_present_id": 501881028,
+            "description": "週間ログインボーナスの報酬です",
+            "reward_type": 15,
+            "reward_value": 1001,
+            "reward_num": 15,
+            "expired_at": 1723682092,
+            "created_at": 1721090092
+        }
+    ],
+    "last_page_flag": false,
+    "first_page_flag": true,
+    "total_pages": 4,
+    "total_count": 34,
+    "current_page": 1
+}

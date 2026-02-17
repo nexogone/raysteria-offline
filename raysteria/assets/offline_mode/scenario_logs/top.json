@@ -1,0 +1,17 @@
+{
+    "top": [
+        {
+            "chapter_type": 1,
+            "leash_flag": false
+        },
+        {
+            "chapter_type": 2,
+            "leash_flag": false
+        },
+        {
+            "chapter_type": 11,
+            "leash_flag": false
+        }
+    ],
+    "new_sub_episode_flag": false
+}

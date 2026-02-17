@@ -1,0 +1,11 @@
+{
+	"user_agency_offers": [],
+	"food_effect": {
+		"success_type": 1,
+		"mst_agency_food_id": 50,
+		"mst_agency_food_effect_ids": [
+			7001
+		],
+		"remain_count": 2
+	}
+}

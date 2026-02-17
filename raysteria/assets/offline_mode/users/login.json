@@ -1,0 +1,106 @@
+{
+	"server_time": 1715747308,
+	"user": {
+		"name": "NeXoGone",
+		"gald": 88352886,
+		"message": "よろしくお願いします！",
+		"tutorial_flag": false,
+		"tutorial_phase": 4111,
+		"scenario_part": 3,
+		"ap": 5989,
+		"ap_max": 156,
+		"ap_orb": 1,
+		"ap_recovery_at": 1715747308,
+		"overray": 4,
+		"overray_max": 4,
+		"overray_recovery_at": 1715747308,
+		"jewel": 0,
+		"jewel_pay": 0,
+		"jewel_free": 0,
+		"diamond": 4,
+		"last_login_at": 1715747308,
+		"prism": 2182,
+		"friend_point": 2400,
+		"friend_code": 240234026,
+		"birthday": null,
+		"age": null,
+		"bnid_combine": true,
+		"passport_expired_at": 1710296815,
+		"advantage_item_use": null,
+		"fragment": 0,
+		"tower_point": 50,
+		"knockout_tower_point": 500,
+		"user_voice_packs": [],
+		"mst_honor_id": 160008,
+		"chara_buff": {
+			"hp": 26,
+			"cc": 0,
+			"p_attack": 2,
+			"m_attack": 2,
+			"critical": 0.0
+		},
+		"equip_awake_statuses": null,
+		"auto_mirrorge_arte_reinforces": [
+			{
+				"mirrorge_type": 0,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1001,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1002,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1003,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1004,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1005,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1006,
+				"num": 0,
+				"rank": 0
+			},
+			{
+				"mirrorge_type": 1007,
+				"num": 0,
+				"rank": 0
+			}
+		],
+		"created_at": 1710204893
+	},
+	"quest_current": {
+		"quest_flag": false,
+		"overray_flag": false,
+		"current_quest_id": 7212011,
+		"old_quest_id": 7212011,
+		"continue_num": 0,
+		"mst_agency_food_effect_ids": [],
+		"support_lock_flag": false,
+		"ap_multiple_rate": 1
+	},
+	"battling_mst_tower_id": 0,
+	"battling_mst_hard_tower_id": 0,
+	"battling_mst_knockout_tower_id": 0,
+	"inquiry_parameter": {
+		"link": "e3a5cd98da94df17eb2a1a74348df865e8af74cc98bf08459c59771c68ea5ce2be5ad332f923e6e14179726e4580df559d791be",
+		"encrypt_key": "talesoftherays",
+		"delete_link": "dc33074904b6b89a7466310f4e8434197b99d8c8d8d40d782aa42ecf099cfa029fa10f61bde5f4",
+		"delete_encrypt_key": "deletion_totr"
+	}
+}

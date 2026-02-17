@@ -1,0 +1,4420 @@
+{
+    "gashas": [
+        {
+            "mst_gasha_id": 240505,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 90000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 2405054,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 2405053,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 2405052,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 2405051,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": true,
+                            "first_flag": false,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000101,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100001,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100002,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100003,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100004,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000201,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100015,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100016,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100017,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100018,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000301,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100029,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100030,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100031,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100032,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000401,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100043,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100044,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100045,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100046,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000501,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100057,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100058,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100059,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100060,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000601,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100071,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100072,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100073,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100074,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000701,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100085,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100086,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100087,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100088,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000801,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100099,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100100,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100101,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100102,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39000901,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100113,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100114,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100115,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100116,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001001,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100127,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100128,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100129,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100130,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001101,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100141,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100142,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100143,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100144,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001201,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100155,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100156,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100157,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100158,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001301,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100169,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100170,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100171,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100172,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001401,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100183,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100184,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100185,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100186,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001501,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100197,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100198,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100199,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100200,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001601,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100211,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100212,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100213,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100214,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001701,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100225,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100226,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100227,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100228,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001801,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100239,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100240,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100241,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100242,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39001901,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100253,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100254,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100255,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100256,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002001,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100267,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100268,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100269,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100270,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002101,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100281,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100282,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100283,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100284,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002201,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100295,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100296,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100297,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100298,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002301,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100309,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100310,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100311,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100312,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002401,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100323,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100324,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100325,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100326,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002501,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100337,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100338,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100339,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100340,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002601,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100351,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100352,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100353,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100354,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002701,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100365,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100366,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100367,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100368,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002801,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100379,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100380,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100381,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100382,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 39002901,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1000,
+            "start_date": 1716354000,
+            "end_date": 1721660399,
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            },
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100393,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 10,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100394,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 5,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 39100395,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 2,
+                            "discount_value": 1000,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 100,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 39100396,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 2,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 0,
+                            "grade_num": 50,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 181204,
+            "gasha_type": 2,
+            "step_flag": true,
+            "step_roop_type": 2,
+            "limit_roop_count": 1,
+            "max_step": 1,
+            "memorial_event_flag": true,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 146,
+            "start_date": 1721002060,
+            "end_date": 1721866060,
+            "user_step_info": null,
+            "user_gasha_grade": null,
+            "gasha_details": [
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1812041,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 1,
+                            "fixed_rarity_type": 2,
+                            "rarity": 100,
+                            "reward_prism": 220,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 181203,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": true,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 144,
+            "start_date": 1721002060,
+            "end_date": 1721866060,
+            "user_step_info": null,
+            "user_gasha_grade": null,
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1812031,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 0,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 1812032,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1812033,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 220,
+                            "grade_num": 0,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 1812034,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 4,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 181201,
+            "gasha_type": 2,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": true,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 143,
+            "start_date": 1721002060,
+            "end_date": 1721866060,
+            "user_step_info": null,
+            "user_gasha_grade": null,
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1812011,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 1,
+                            "discount_value": 100,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 20,
+                            "grade_num": 0,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 1812012,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 20,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1812013,
+                            "product_type": 1,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 5,
+                            "reward_prism": 220,
+                            "grade_num": 0,
+                            "bonus_flag": true,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        },
+                        {
+                            "mst_gasha_setting_id": 1812014,
+                            "product_type": 2,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 2,
+                            "rarity": 4,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": false,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 2403211,
+            "gasha_type": 6,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 101,
+            "start_date": 1710997200,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": null
+        },
+        {
+            "mst_gasha_id": 201015,
+            "gasha_type": 4,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 100,
+            "start_date": 1603861200,
+            "end_date": 1735657199,
+            "user_step_info": null,
+            "user_gasha_grade": null,
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 2010151,
+                            "product_type": 4,
+                            "mst_gasha_ticket_id": 201015,
+                            "amount": 1,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 201017,
+            "gasha_type": 4,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 100,
+            "start_date": 1603861200,
+            "end_date": 1924959599,
+            "user_step_info": null,
+            "user_gasha_grade": null,
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 2010171,
+                            "product_type": 4,
+                            "mst_gasha_ticket_id": 201017,
+                            "amount": 1,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 170702,
+            "gasha_type": 3,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 1,
+            "start_date": 1499079600,
+            "end_date": 1924945199,
+            "user_step_info": null,
+            "user_gasha_grade": null,
+            "gasha_details": [
+                {
+                    "execute_count": 1,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1707021,
+                            "product_type": 3,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 200,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                },
+                {
+                    "execute_count": 10,
+                    "gasha_settings": [
+                        {
+                            "mst_gasha_setting_id": 1707022,
+                            "product_type": 3,
+                            "mst_gasha_ticket_id": 0,
+                            "amount": 2000,
+                            "discount_type": 0,
+                            "discount_value": 0,
+                            "step": 0,
+                            "fixed_rarity_type": 0,
+                            "rarity": 0,
+                            "reward_prism": 0,
+                            "grade_num": 0,
+                            "bonus_flag": false,
+                            "first_flag": true,
+                            "daily_first_flag": true,
+                            "daily_step_flag": false,
+                            "step_display_only_flag": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mst_gasha_id": 230401,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 62,
+            "start_date": 1681102800,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 2304011,
+                "num": 80,
+                "start_date": 1681102800,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 230403,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 61,
+            "start_date": 1681102800,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 2304011,
+                "num": 80,
+                "start_date": 1681102800,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 230404,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 60,
+            "start_date": 1681102800,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 2304011,
+                "num": 80,
+                "start_date": 1681102800,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 231107,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 59,
+            "start_date": 1681102800,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 2304011,
+                "num": 80,
+                "start_date": 1681102800,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132701,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 58,
+            "start_date": 1681102800,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 2304011,
+                "num": 80,
+                "start_date": 1681102800,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130101,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 57,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130201,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 56,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130301,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 55,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130401,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 54,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130501,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 53,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130601,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 52,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130701,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 51,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130801,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 50,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32130901,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 49,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131001,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 48,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131101,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 47,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131201,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 46,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131301,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 45,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131401,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 44,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131501,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 43,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131601,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 42,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131701,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 41,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131801,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 40,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32131901,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 39,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132001,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 38,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132101,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 37,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132201,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 36,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132301,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 35,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132401,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 34,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132501,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 33,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32132601,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 32,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        },
+        {
+            "mst_gasha_id": 32152801,
+            "gasha_type": 8,
+            "step_flag": false,
+            "step_roop_type": 0,
+            "limit_roop_count": 0,
+            "max_step": 0,
+            "memorial_event_flag": false,
+            "select_pickup_flag": false,
+            "select_pickup_chara_ids": [],
+            "select_pickup_choice_chara_ids": [],
+            "sort": 31,
+            "start_date": 1652454000,
+            "end_date": 1721660399,
+            "gasha_details": [],
+            "user_step_info": null,
+            "user_gasha_grade": {
+                "mst_gasha_grade_id": 32120102,
+                "num": 370,
+                "start_date": 1652454000,
+                "end_date": 1721660399
+            }
+        }
+    ],
+    "user_gasha_tickets": [
+        {
+            "mst_gasha_ticket_id": 170709,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 201015,
+            "num": 1
+        },
+        {
+            "mst_gasha_ticket_id": 201017,
+            "num": 1
+        },
+        {
+            "mst_gasha_ticket_id": 240214,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240217,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240240,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240242,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240312,
+            "num": 2
+        },
+        {
+            "mst_gasha_ticket_id": 240318,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240320,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240324,
+            "num": 0
+        },
+        {
+            "mst_gasha_ticket_id": 240406,
+            "num": 1
+        }
+    ],
+    "mst_point_event_ids": [],
+    "surprise_ticket_exchanges": [
+        {
+            "mst_surprise_ticket_id": 2403211,
+            "surprise_ticket_num": 1,
+            "reward_prism": 0,
+            "rewards": [
+                {
+                    "reward_type": 0,
+                    "reward_value": 0,
+                    "reward_num": 0
+                },
+                {
+                    "reward_type": 0,
+                    "reward_value": 0,
+                    "reward_num": 0
+                },
+                {
+                    "reward_type": 0,
+                    "reward_value": 0,
+                    "reward_num": 0
+                }
+            ],
+            "start_date": 1710997200,
+            "end_date": 1721660399,
+            "exchangesable_flag": false,
+            "user_surprise_ticket": {
+                "mst_surprise_ticket_id": 2403211,
+                "num": 7
+            },
+            "surprise_ticket_shops": []
+        }
+    ],
+    "weapon_num": 737,
+    "weapon_num_max": 10000,
+    "magical_mirror_num": 134,
+    "magical_mirror_num_max": 10000,
+    "fairys_dress_num": 3,
+    "fairys_dress_num_max": 1000
+}

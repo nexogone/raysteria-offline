@@ -1,0 +1,674 @@
+{
+    "bgms": [
+        {
+            "mst_bgm_id": 103001,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103003,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103004,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103005,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103006,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103007,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103008,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103009,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103010,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 103012,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 104001,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 104002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105001,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105002,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105003,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105004,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105005,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105006,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105007,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105008,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105009,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105010,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105011,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105012,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 105013,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 203001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 203002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 203003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 204001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 204002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 204003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 303001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 303002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 303003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 304001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 403001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 404001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 404002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 404003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 404004,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 503001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 503002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 503003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 504001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 604001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 604002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 604003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 703001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 703002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 703003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 704001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 704002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 803001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 803002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 804001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 804002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 903001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 903002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 903003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 903004,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 904001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 904002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 904003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1003001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1003002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1004001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1030011,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1103001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1103002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1104001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1203001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1204001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1303001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1303002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1303003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1303004,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1304001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1304002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1403001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1404001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1503001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1503002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1503003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1504001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1504002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1603001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1604001,
+            "possession_flag": true,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1703001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1703002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1703003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1704001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1803001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1804001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1903001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1904001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1904002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 1904003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2003001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2004001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2103001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2103002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2203001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2203002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2303001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2303003,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2303004,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2304002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2403001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 2404001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 4003001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 4003002,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 4004001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 4304001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 4403001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 5303001,
+            "possession_flag": false,
+            "shop": null
+        },
+        {
+            "mst_bgm_id": 5403001,
+            "possession_flag": false,
+            "shop": null
+        }
+    ],
+    "rare_prism_num": 0,
+    "user": {
+        "name": "NeXoGone",
+        "gald": 89760082,
+        "message": "よろしくお願いします！",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 7438,
+        "ap_max": 165,
+        "ap_orb": 0,
+        "ap_recovery_at": 1721263955,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1721263955,
+        "jewel": 0,
+        "jewel_pay": 0,
+        "jewel_free": 0,
+        "diamond": 1963,
+        "last_login_at": 1721256981,
+        "prism": 2352,
+        "friend_point": 400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 450,
+        "user_voice_packs": [],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    }
+}

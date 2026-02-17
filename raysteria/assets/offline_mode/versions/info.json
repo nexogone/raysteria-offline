@@ -1,0 +1,9 @@
+{
+    "proto_ver": 6003001,
+    "platform_type": 2,
+    "asset_version": 5,
+    "server_url": "http://localhost:5001",
+    "s3_url": "https://rays-cdn.nexog.one",
+    "update_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.torays",
+    "asset_bundle_directory": "YzY1NmMwMDVmZmI3MzdkM2M0MzM4YzRkNDdjNDJkNzc5YWQyMjY4ZGYwOTk0ODFiN2E4YmEzOTNkN2FkYjljYg"
+}
