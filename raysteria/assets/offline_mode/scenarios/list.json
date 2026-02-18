@@ -1,1 +1,132 @@
-{}
+{
+    "scenarios": {
+        "mst_scenario_ids": [
+            135011201
+        ],
+        "rewards": [
+            {
+                "reward_type": 6,
+                "reward_value": 0,
+                "reward_num": 1
+            },
+            {
+                "reward_type": 0,
+                "reward_value": 0,
+                "reward_num": 0
+            },
+            {
+                "reward_type": 0,
+                "reward_value": 0,
+                "reward_num": 0
+            }
+        ],
+        "reward_charas": [],
+        "sub_episodes": [],
+        "auto_limit_break_mst_magical_mirror_ids": []
+    },
+    "game_mission_progresses": [],
+    "collection_mission_complete_num": 0,
+    "auto_limit_break_result": {
+        "auto_limit_break_mirrors": [],
+        "auto_limit_break_material_mirrors": [],
+        "auto_sell_mirrors": [],
+        "auto_limit_break_weapons": [],
+        "auto_limit_break_material_weapons": [],
+        "auto_sell_weapons": [],
+        "auto_sell_price": 0,
+        "auto_sell_prism": 0,
+        "auto_sell_rare_prism": 0,
+        "auto_sell_bonus_price": 0,
+        "auto_sell_bonus_prism": 0,
+        "auto_sell_bonus_rare_prism": 0
+    },
+    "user": {
+        "name": "Player",
+        "gald": 4000000000,
+        "message": "Best Wishes!",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 5989,
+        "ap_max": 156,
+        "ap_orb": 1,
+        "ap_recovery_at": 1715747308,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1715747308,
+        "jewel": 999999,
+        "jewel_pay": 999999,
+        "jewel_free": 0,
+        "diamond": 999999,
+        "last_login_at": 1715747308,
+        "prism": 99999999,
+        "friend_point": 2400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 500,
+        "user_voice_packs": [
+            191226,
+            2107091,
+            2204181,
+            2304219
+        ],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    }
+}

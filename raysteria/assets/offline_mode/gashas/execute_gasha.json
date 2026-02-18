@@ -1,1 +1,2792 @@
-{}
+{
+    "weapon_num": 2387,
+    "weapon_num_max": 10000,
+    "magical_mirror_num": 784,
+    "magical_mirror_num_max": 10000,
+    "fairys_dress_num": 63,
+    "fairys_dress_num_max": 200,
+    "weapons": [
+        {
+            "user_weapon_sid": 27338,
+            "mst_weapon_id": 673003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "arte_lv": 0,
+            "set_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": false,
+            "mst_weapon_surface_id": 0,
+            "auto_available_flag": true,
+            "recollection_auto_available_flag": true
+        },
+        {
+            "user_weapon_sid": 27339,
+            "mst_weapon_id": 674002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "arte_lv": 0,
+            "set_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": false,
+            "mst_weapon_surface_id": 0,
+            "auto_available_flag": true,
+            "recollection_auto_available_flag": true
+        },
+        {
+            "user_weapon_sid": 27340,
+            "mst_weapon_id": 673002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "arte_lv": 0,
+            "set_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": false,
+            "mst_weapon_surface_id": 0,
+            "auto_available_flag": true,
+            "recollection_auto_available_flag": true
+        },
+        {
+            "user_weapon_sid": 27341,
+            "mst_weapon_id": 2574002,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "arte_lv": 0,
+            "set_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": false,
+            "mst_weapon_surface_id": 0,
+            "auto_available_flag": true,
+            "recollection_auto_available_flag": true
+        },
+        {
+            "user_weapon_sid": 27342,
+            "mst_weapon_id": 724003,
+            "lv": 1,
+            "limit_break_phase": 0,
+            "arte_lv": 0,
+            "set_arte_lv": 0,
+            "exp": 0,
+            "favorite_flag": false,
+            "mst_weapon_surface_id": 0,
+            "auto_available_flag": true,
+            "recollection_auto_available_flag": true
+        }
+    ],
+    "magical_mirrors": [],
+    "fairys_dresses": [],
+    "equip_collections": [],
+    "reinforce_materials": [],
+    "arte_materials": [],
+    "chara_reinforce_materials": [],
+    "galds": [],
+    "point_event_items": [],
+    "gasha_bonuses": [],
+    "reward_prism": 0,
+    "grade_num": 0,
+    "total_grade_num": 0,
+    "user_gasha_tickets": [
+        {
+            "mst_gasha_ticket_id": 1,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 170511,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 170513,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 170709,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 170802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 171004,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180216,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180302,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180414,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180416,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180505,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180510,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180513,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180520,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180526,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180527,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180531,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180702,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180704,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180705,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180712,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180713,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180804,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180806,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180808,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180814,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180903,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180905,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180906,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180909,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180911,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180914,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 180915,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181002,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181006,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181007,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181017,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181020,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181105,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181106,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181206,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181209,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181211,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181213,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181219,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181221,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181236,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 181240,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190121,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190123,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190124,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190127,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190130,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190133,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190136,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190207,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190214,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190215,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190216,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190217,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190302,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190304,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190306,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190308,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190310,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190312,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190402,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190404,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190412,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190504,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190505,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190506,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190507,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190510,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190511,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190513,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190515,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190518,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190601,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190603,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190608,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190611,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190614,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190616,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190617,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190618,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190701,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190708,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190710,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190713,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190715,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190804,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190806,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190807,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190809,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190810,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190811,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190812,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190814,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190821,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190822,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190902,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190904,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190907,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190911,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190916,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 190917,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191002,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191004,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191012,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191017,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191104,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191109,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191110,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191113,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191116,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191123,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191129,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191218,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191220,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191225,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191226,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191228,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 191229,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200104,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200106,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200109,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200111,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200133,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200139,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200205,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200207,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200215,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200218,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200232,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200237,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200238,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200245,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200246,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200248,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200302,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200307,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200311,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200312,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200315,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200318,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200412,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200420,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200421,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200508,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200516,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200517,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200527,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200530,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200606,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200607,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200610,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200618,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200625,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200628,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200708,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200712,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200713,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200716,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200733,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200808,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200811,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200813,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200826,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200902,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200904,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200907,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200909,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200917,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200922,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200923,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 200926,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201004,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201006,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201009,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201016,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201017,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201025,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201031,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201045,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201106,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201210,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201215,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201216,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201222,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201224,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201234,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201236,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201240,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201242,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201246,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201248,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 201250,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210113,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210116,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210121,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210123,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210127,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210210,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210211,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210213,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210220,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210222,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210223,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210230,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210234,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210235,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210236,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210237,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210238,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210274,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210304,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210313,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210314,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210321,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210324,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210402,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210404,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210408,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210410,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210416,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210422,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210425,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210438,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210441,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210442,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210443,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210504,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210505,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210506,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210510,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210521,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210523,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210529,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210530,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210531,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210608,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210610,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210612,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210617,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210641,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210647,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210653,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210701,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210703,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210709,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210713,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210715,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210721,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210727,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210728,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210804,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210806,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210809,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210813,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210825,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210829,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210902,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210904,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210907,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210908,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210915,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210920,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210922,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 210930,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211002,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211006,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211014,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211022,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211024,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211032,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211033,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211113,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211120,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211121,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211205,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211206,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211213,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211215,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211216,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 211217,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220109,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220111,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220119,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220125,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220127,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220134,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220206,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220207,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220208,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220217,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220218,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220219,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220222,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220223,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220224,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220227,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220228,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220235,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220305,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220307,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220308,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220314,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220315,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220322,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220324,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220325,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220402,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220404,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220406,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220407,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220411,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220413,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220414,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220418,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220420,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220421,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220422,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220427,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220435,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220440,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220449,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220451,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220502,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220512,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220514,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220516,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220518,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220520,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220522,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220525,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220526,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220531,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220532,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220535,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220537,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220538,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220539,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220540,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220541,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220542,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220602,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220605,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220609,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220611,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220702,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220704,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220707,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220708,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220709,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220716,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220803,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220804,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220805,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220806,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220809,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220811,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220815,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220821,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220826,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220827,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220902,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220904,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220907,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 220911,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221002,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221004,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221010,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221016,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221018,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221104,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221108,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221111,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221119,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221203,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221207,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221209,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221210,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221211,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221215,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 221217,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230105,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230113,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230119,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230123,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230205,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230206,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230210,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230212,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230213,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230224,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230230,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230231,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230233,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230237,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230238,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230239,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230308,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230309,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230317,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230329,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230402,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230407,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230409,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230410,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230411,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230415,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230417,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230419,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230420,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230426,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230430,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230503,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230508,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230512,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230515,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230518,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230521,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230525,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230602,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230604,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230605,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230606,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230622,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230704,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230712,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230713,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230804,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230807,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230814,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230816,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230902,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230904,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230908,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 230917,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231002,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231008,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231011,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231013,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231019,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231026,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231105,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231110,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231204,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231208,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231212,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231214,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231215,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 231216,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240109,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240112,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240115,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240117,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240118,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240124,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240125,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240126,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240211,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240212,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240213,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240217,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240223,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240226,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240229,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240237,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240238,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240239,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240240,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240241,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240242,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240311,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240312,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240318,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240320,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240324,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240404,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240406,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240408,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240411,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240414,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240415,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240502,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240503,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 240506,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211001,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211002,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211003,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211004,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211005,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211006,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211007,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211008,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211009,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211010,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211011,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211012,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211013,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211014,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211015,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211016,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211017,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211018,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211019,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211020,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211021,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211022,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211023,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 3211024,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100103,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100203,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100303,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100403,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100503,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100603,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100703,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100803,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20100903,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101003,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101103,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101203,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101303,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101403,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101503,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101603,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101703,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101803,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20101903,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20102003,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20102103,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20102203,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20102303,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 20102403,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32120302,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130102,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130202,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130302,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130402,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130502,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130602,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130702,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32130802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32131302,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32131402,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32131602,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32131702,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32131802,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32131902,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32132602,
+            "num": 99
+        },
+        {
+            "mst_gasha_ticket_id": 32132702,
+            "num": 99
+        }
+    ],
+    "daily_discount_flag": false,
+    "reward_charas": [],
+    "chara_costums": [],
+    "sub_episodes": [],
+    "game_mission_progresses": [],
+    "collection_mission_complete_num": 0,
+    "badge_gasha_info": null,
+    "auto_limit_break_result": {
+        "auto_limit_break_mirrors": [],
+        "auto_limit_break_material_mirrors": [],
+        "auto_sell_mirrors": [],
+        "auto_limit_break_weapons": [
+            {
+                "user_weapon_sid": 1191,
+                "mst_weapon_id": 673003,
+                "lv": 50,
+                "limit_break_phase": 4,
+                "arte_lv": 4,
+                "set_arte_lv": 4,
+                "exp": 39436,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "mst_chara_id": 0
+            },
+            {
+                "user_weapon_sid": 2081,
+                "mst_weapon_id": 674002,
+                "lv": 1,
+                "limit_break_phase": 4,
+                "arte_lv": 4,
+                "set_arte_lv": 4,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "mst_chara_id": 0
+            },
+            {
+                "user_weapon_sid": 819,
+                "mst_weapon_id": 673002,
+                "lv": 80,
+                "limit_break_phase": 4,
+                "arte_lv": 5,
+                "set_arte_lv": 5,
+                "exp": 86334,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "mst_chara_id": 0
+            },
+            {
+                "user_weapon_sid": 14148,
+                "mst_weapon_id": 2574002,
+                "lv": 1,
+                "limit_break_phase": 4,
+                "arte_lv": 5,
+                "set_arte_lv": 5,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "mst_chara_id": 257
+            },
+            {
+                "user_weapon_sid": 1128,
+                "mst_weapon_id": 724003,
+                "lv": 50,
+                "limit_break_phase": 1,
+                "arte_lv": 4,
+                "set_arte_lv": 4,
+                "exp": 39436,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "mst_chara_id": 0
+            }
+        ],
+        "auto_limit_break_material_weapons": [
+            {
+                "user_weapon_sid": 27342,
+                "mst_weapon_id": 724003,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true
+            }
+        ],
+        "auto_sell_weapons": [
+            {
+                "user_weapon_sid": 27338,
+                "mst_weapon_id": 673003,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27338,
+                "mst_weapon_id": 673003,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27339,
+                "mst_weapon_id": 674002,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27338,
+                "mst_weapon_id": 673003,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27339,
+                "mst_weapon_id": 674002,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27340,
+                "mst_weapon_id": 673002,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27338,
+                "mst_weapon_id": 673003,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27339,
+                "mst_weapon_id": 674002,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27340,
+                "mst_weapon_id": 673002,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            },
+            {
+                "user_weapon_sid": 27341,
+                "mst_weapon_id": 2574002,
+                "lv": 1,
+                "limit_break_phase": 0,
+                "arte_lv": 0,
+                "set_arte_lv": 0,
+                "exp": 0,
+                "favorite_flag": false,
+                "mst_weapon_surface_id": 0,
+                "auto_available_flag": true,
+                "recollection_auto_available_flag": true,
+                "gald": 4000000000,
+                "prism": 99999999
+            }
+        ],
+        "auto_sell_price": 9600,
+        "auto_sell_prism": 288,
+        "auto_sell_rare_prism": 0,
+        "auto_sell_bonus_price": 0,
+        "auto_sell_bonus_prism": 0,
+        "auto_sell_bonus_rare_prism": 0
+    },
+    "chara_equip_lv_max_up_flag": false,
+    "user_status": {
+        "name": "Player",
+        "gald": 4000000000,
+        "message": "Best Wishes!",
+        "tutorial_flag": false,
+        "tutorial_phase": 4111,
+        "scenario_part": 3,
+        "ap": 5989,
+        "ap_max": 156,
+        "ap_orb": 1,
+        "ap_recovery_at": 1715747308,
+        "overray": 4,
+        "overray_max": 4,
+        "overray_recovery_at": 1715747308,
+        "jewel": 999999,
+        "jewel_pay": 999999,
+        "jewel_free": 0,
+        "diamond": 999999,
+        "last_login_at": 1715747308,
+        "prism": 99999999,
+        "friend_point": 2400,
+        "friend_code": 240234026,
+        "birthday": null,
+        "age": null,
+        "bnid_combine": true,
+        "passport_expired_at": 1710296815,
+        "advantage_item_use": null,
+        "fragment": 0,
+        "tower_point": 50,
+        "knockout_tower_point": 500,
+        "user_voice_packs": [
+            191226,
+            2107091,
+            2204181,
+            2304219
+        ],
+        "mst_honor_id": 160008,
+        "chara_buff": {
+            "hp": 26,
+            "cc": 0,
+            "p_attack": 2,
+            "m_attack": 2,
+            "critical": 0.0
+        },
+        "equip_awake_statuses": null,
+        "auto_mirrorge_arte_reinforces": [
+            {
+                "mirrorge_type": 0,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1001,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1002,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1003,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1004,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1005,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1006,
+                "num": 0,
+                "rank": 0
+            },
+            {
+                "mirrorge_type": 1007,
+                "num": 0,
+                "rank": 0
+            }
+        ],
+        "created_at": 1710204893
+    }
+}

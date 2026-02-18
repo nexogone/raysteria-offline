@@ -1,1 +1,970 @@
-{}
+{
+    "equip_chara_custom": [
+        {
+            "mst_chara_id": 1,
+            "mst_costume_id": 1201,
+            "mst_attachment_id": 1001,
+            "mst_weapon_model_id": 1001,
+            "mst_cutin_id": 3
+        },
+        {
+            "mst_chara_id": 2,
+            "mst_costume_id": 2201,
+            "mst_attachment_id": 2001,
+            "mst_weapon_model_id": 2001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 3,
+            "mst_costume_id": 3001,
+            "mst_attachment_id": 3001,
+            "mst_weapon_model_id": 3001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 4,
+            "mst_costume_id": 4001,
+            "mst_attachment_id": 4001,
+            "mst_weapon_model_id": 4001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 5,
+            "mst_costume_id": 5001,
+            "mst_attachment_id": 5001,
+            "mst_weapon_model_id": 5001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 6,
+            "mst_costume_id": 6001,
+            "mst_attachment_id": 6001,
+            "mst_weapon_model_id": 6001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 7,
+            "mst_costume_id": 7001,
+            "mst_attachment_id": 7001,
+            "mst_weapon_model_id": 7001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 8,
+            "mst_costume_id": 8001,
+            "mst_attachment_id": 8001,
+            "mst_weapon_model_id": 8001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 9,
+            "mst_costume_id": 9001,
+            "mst_attachment_id": 9001,
+            "mst_weapon_model_id": 9001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 10,
+            "mst_costume_id": 10001,
+            "mst_attachment_id": 10001,
+            "mst_weapon_model_id": 10001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 11,
+            "mst_costume_id": 11001,
+            "mst_attachment_id": 11001,
+            "mst_weapon_model_id": 11001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 12,
+            "mst_costume_id": 12001,
+            "mst_attachment_id": 12001,
+            "mst_weapon_model_id": 12001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 14,
+            "mst_costume_id": 14001,
+            "mst_attachment_id": 14001,
+            "mst_weapon_model_id": 14001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 16,
+            "mst_costume_id": 16001,
+            "mst_attachment_id": 16001,
+            "mst_weapon_model_id": 16001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 17,
+            "mst_costume_id": 17001,
+            "mst_attachment_id": 17001,
+            "mst_weapon_model_id": 17001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 18,
+            "mst_costume_id": 18001,
+            "mst_attachment_id": 18001,
+            "mst_weapon_model_id": 18001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 19,
+            "mst_costume_id": 19001,
+            "mst_attachment_id": 19001,
+            "mst_weapon_model_id": 19001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 20,
+            "mst_costume_id": 20001,
+            "mst_attachment_id": 20001,
+            "mst_weapon_model_id": 20001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 22,
+            "mst_costume_id": 22001,
+            "mst_attachment_id": 22001,
+            "mst_weapon_model_id": 22001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 23,
+            "mst_costume_id": 23001,
+            "mst_attachment_id": 23001,
+            "mst_weapon_model_id": 23001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 24,
+            "mst_costume_id": 24001,
+            "mst_attachment_id": 24001,
+            "mst_weapon_model_id": 24001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 25,
+            "mst_costume_id": 25002,
+            "mst_attachment_id": 25001,
+            "mst_weapon_model_id": 25001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 27,
+            "mst_costume_id": 27001,
+            "mst_attachment_id": 27001,
+            "mst_weapon_model_id": 27001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 28,
+            "mst_costume_id": 28001,
+            "mst_attachment_id": 28001,
+            "mst_weapon_model_id": 28001,
+            "mst_cutin_id": 3
+        },
+        {
+            "mst_chara_id": 29,
+            "mst_costume_id": 29001,
+            "mst_attachment_id": 29001,
+            "mst_weapon_model_id": 29001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 30,
+            "mst_costume_id": 30001,
+            "mst_attachment_id": 30001,
+            "mst_weapon_model_id": 30001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 31,
+            "mst_costume_id": 31001,
+            "mst_attachment_id": 31001,
+            "mst_weapon_model_id": 31001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 33,
+            "mst_costume_id": 33001,
+            "mst_attachment_id": 33001,
+            "mst_weapon_model_id": 33001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 34,
+            "mst_costume_id": 34001,
+            "mst_attachment_id": 34001,
+            "mst_weapon_model_id": 34001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 35,
+            "mst_costume_id": 35001,
+            "mst_attachment_id": 35001,
+            "mst_weapon_model_id": 35001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 36,
+            "mst_costume_id": 36001,
+            "mst_attachment_id": 36001,
+            "mst_weapon_model_id": 36001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 37,
+            "mst_costume_id": 37002,
+            "mst_attachment_id": 37001,
+            "mst_weapon_model_id": 37001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 38,
+            "mst_costume_id": 38001,
+            "mst_attachment_id": 38001,
+            "mst_weapon_model_id": 38001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 39,
+            "mst_costume_id": 39001,
+            "mst_attachment_id": 39001,
+            "mst_weapon_model_id": 39001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 40,
+            "mst_costume_id": 40001,
+            "mst_attachment_id": 40001,
+            "mst_weapon_model_id": 40001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 41,
+            "mst_costume_id": 41001,
+            "mst_attachment_id": 41001,
+            "mst_weapon_model_id": 41001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 42,
+            "mst_costume_id": 42001,
+            "mst_attachment_id": 42001,
+            "mst_weapon_model_id": 42001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 43,
+            "mst_costume_id": 43001,
+            "mst_attachment_id": 43001,
+            "mst_weapon_model_id": 43001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 44,
+            "mst_costume_id": 44001,
+            "mst_attachment_id": 44001,
+            "mst_weapon_model_id": 44001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 45,
+            "mst_costume_id": 45001,
+            "mst_attachment_id": 45001,
+            "mst_weapon_model_id": 45001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 46,
+            "mst_costume_id": 46001,
+            "mst_attachment_id": 46001,
+            "mst_weapon_model_id": 46001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 48,
+            "mst_costume_id": 48001,
+            "mst_attachment_id": 48001,
+            "mst_weapon_model_id": 48001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 49,
+            "mst_costume_id": 49001,
+            "mst_attachment_id": 49001,
+            "mst_weapon_model_id": 49001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 50,
+            "mst_costume_id": 50001,
+            "mst_attachment_id": 50001,
+            "mst_weapon_model_id": 50001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 51,
+            "mst_costume_id": 51001,
+            "mst_attachment_id": 51001,
+            "mst_weapon_model_id": 51001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 52,
+            "mst_costume_id": 52001,
+            "mst_attachment_id": 52001,
+            "mst_weapon_model_id": 52001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 53,
+            "mst_costume_id": 53001,
+            "mst_attachment_id": 53001,
+            "mst_weapon_model_id": 53001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 55,
+            "mst_costume_id": 55001,
+            "mst_attachment_id": 55001,
+            "mst_weapon_model_id": 55001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 56,
+            "mst_costume_id": 56001,
+            "mst_attachment_id": 56001,
+            "mst_weapon_model_id": 56001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 57,
+            "mst_costume_id": 57001,
+            "mst_attachment_id": 57001,
+            "mst_weapon_model_id": 57001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 58,
+            "mst_costume_id": 58001,
+            "mst_attachment_id": 58001,
+            "mst_weapon_model_id": 58001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 60,
+            "mst_costume_id": 60001,
+            "mst_attachment_id": 60001,
+            "mst_weapon_model_id": 60001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 62,
+            "mst_costume_id": 62001,
+            "mst_attachment_id": 62001,
+            "mst_weapon_model_id": 62001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 63,
+            "mst_costume_id": 63001,
+            "mst_attachment_id": 63001,
+            "mst_weapon_model_id": 63001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 66,
+            "mst_costume_id": 66001,
+            "mst_attachment_id": 66001,
+            "mst_weapon_model_id": 66001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 67,
+            "mst_costume_id": 67001,
+            "mst_attachment_id": 67001,
+            "mst_weapon_model_id": 67001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 68,
+            "mst_costume_id": 68001,
+            "mst_attachment_id": 68001,
+            "mst_weapon_model_id": 68001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 70,
+            "mst_costume_id": 70001,
+            "mst_attachment_id": 70001,
+            "mst_weapon_model_id": 70001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 71,
+            "mst_costume_id": 71001,
+            "mst_attachment_id": 71001,
+            "mst_weapon_model_id": 71001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 72,
+            "mst_costume_id": 72001,
+            "mst_attachment_id": 72001,
+            "mst_weapon_model_id": 72001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 73,
+            "mst_costume_id": 73001,
+            "mst_attachment_id": 73001,
+            "mst_weapon_model_id": 73001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 74,
+            "mst_costume_id": 74002,
+            "mst_attachment_id": 74001,
+            "mst_weapon_model_id": 74001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 75,
+            "mst_costume_id": 75001,
+            "mst_attachment_id": 75001,
+            "mst_weapon_model_id": 75001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 76,
+            "mst_costume_id": 76001,
+            "mst_attachment_id": 76001,
+            "mst_weapon_model_id": 76001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 77,
+            "mst_costume_id": 77001,
+            "mst_attachment_id": 77001,
+            "mst_weapon_model_id": 77001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 80,
+            "mst_costume_id": 80001,
+            "mst_attachment_id": 80001,
+            "mst_weapon_model_id": 80001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 82,
+            "mst_costume_id": 82001,
+            "mst_attachment_id": 82001,
+            "mst_weapon_model_id": 82001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 83,
+            "mst_costume_id": 83001,
+            "mst_attachment_id": 83001,
+            "mst_weapon_model_id": 83001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 85,
+            "mst_costume_id": 85001,
+            "mst_attachment_id": 85001,
+            "mst_weapon_model_id": 85001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 89,
+            "mst_costume_id": 89001,
+            "mst_attachment_id": 89001,
+            "mst_weapon_model_id": 89001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 90,
+            "mst_costume_id": 90001,
+            "mst_attachment_id": 90001,
+            "mst_weapon_model_id": 90001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 91,
+            "mst_costume_id": 91001,
+            "mst_attachment_id": 91001,
+            "mst_weapon_model_id": 91001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 93,
+            "mst_costume_id": 93001,
+            "mst_attachment_id": 93001,
+            "mst_weapon_model_id": 93001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 96,
+            "mst_costume_id": 96001,
+            "mst_attachment_id": 96001,
+            "mst_weapon_model_id": 96001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 97,
+            "mst_costume_id": 97001,
+            "mst_attachment_id": 97001,
+            "mst_weapon_model_id": 97001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 98,
+            "mst_costume_id": 98001,
+            "mst_attachment_id": 98001,
+            "mst_weapon_model_id": 98001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 104,
+            "mst_costume_id": 104001,
+            "mst_attachment_id": 104001,
+            "mst_weapon_model_id": 104001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 105,
+            "mst_costume_id": 105001,
+            "mst_attachment_id": 105001,
+            "mst_weapon_model_id": 105001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 106,
+            "mst_costume_id": 106001,
+            "mst_attachment_id": 106001,
+            "mst_weapon_model_id": 106001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 107,
+            "mst_costume_id": 107001,
+            "mst_attachment_id": 107001,
+            "mst_weapon_model_id": 107001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 108,
+            "mst_costume_id": 108001,
+            "mst_attachment_id": 108001,
+            "mst_weapon_model_id": 108001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 112,
+            "mst_costume_id": 112001,
+            "mst_attachment_id": 112001,
+            "mst_weapon_model_id": 112001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 115,
+            "mst_costume_id": 115001,
+            "mst_attachment_id": 115001,
+            "mst_weapon_model_id": 115001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 116,
+            "mst_costume_id": 116001,
+            "mst_attachment_id": 116001,
+            "mst_weapon_model_id": 116001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 117,
+            "mst_costume_id": 117001,
+            "mst_attachment_id": 117001,
+            "mst_weapon_model_id": 117001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 118,
+            "mst_costume_id": 118001,
+            "mst_attachment_id": 118001,
+            "mst_weapon_model_id": 118001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 121,
+            "mst_costume_id": 121001,
+            "mst_attachment_id": 121001,
+            "mst_weapon_model_id": 121001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 125,
+            "mst_costume_id": 125001,
+            "mst_attachment_id": 125001,
+            "mst_weapon_model_id": 125001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 128,
+            "mst_costume_id": 128001,
+            "mst_attachment_id": 128001,
+            "mst_weapon_model_id": 128001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 129,
+            "mst_costume_id": 129001,
+            "mst_attachment_id": 129001,
+            "mst_weapon_model_id": 129001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 133,
+            "mst_costume_id": 133001,
+            "mst_attachment_id": 133001,
+            "mst_weapon_model_id": 133001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 136,
+            "mst_costume_id": 136001,
+            "mst_attachment_id": 136001,
+            "mst_weapon_model_id": 136001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 138,
+            "mst_costume_id": 138001,
+            "mst_attachment_id": 138001,
+            "mst_weapon_model_id": 138001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 139,
+            "mst_costume_id": 139001,
+            "mst_attachment_id": 139001,
+            "mst_weapon_model_id": 139001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 143,
+            "mst_costume_id": 143001,
+            "mst_attachment_id": 143001,
+            "mst_weapon_model_id": 143001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 145,
+            "mst_costume_id": 145001,
+            "mst_attachment_id": 145001,
+            "mst_weapon_model_id": 145001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 149,
+            "mst_costume_id": 149001,
+            "mst_attachment_id": 149001,
+            "mst_weapon_model_id": 149001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 152,
+            "mst_costume_id": 152001,
+            "mst_attachment_id": 152001,
+            "mst_weapon_model_id": 152001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 154,
+            "mst_costume_id": 154001,
+            "mst_attachment_id": 154001,
+            "mst_weapon_model_id": 154001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 155,
+            "mst_costume_id": 155001,
+            "mst_attachment_id": 155001,
+            "mst_weapon_model_id": 155001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 156,
+            "mst_costume_id": 156001,
+            "mst_attachment_id": 156001,
+            "mst_weapon_model_id": 156001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 162,
+            "mst_costume_id": 162001,
+            "mst_attachment_id": 162001,
+            "mst_weapon_model_id": 162001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 163,
+            "mst_costume_id": 163001,
+            "mst_attachment_id": 163001,
+            "mst_weapon_model_id": 163001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 165,
+            "mst_costume_id": 165001,
+            "mst_attachment_id": 165001,
+            "mst_weapon_model_id": 165001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 167,
+            "mst_costume_id": 167001,
+            "mst_attachment_id": 167001,
+            "mst_weapon_model_id": 167001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 171,
+            "mst_costume_id": 171001,
+            "mst_attachment_id": 171001,
+            "mst_weapon_model_id": 171001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 172,
+            "mst_costume_id": 172001,
+            "mst_attachment_id": 172001,
+            "mst_weapon_model_id": 172001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 176,
+            "mst_costume_id": 176001,
+            "mst_attachment_id": 176001,
+            "mst_weapon_model_id": 176001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 178,
+            "mst_costume_id": 178001,
+            "mst_attachment_id": 178001,
+            "mst_weapon_model_id": 178001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 179,
+            "mst_costume_id": 179001,
+            "mst_attachment_id": 179001,
+            "mst_weapon_model_id": 179001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 181,
+            "mst_costume_id": 181001,
+            "mst_attachment_id": 181001,
+            "mst_weapon_model_id": 181001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 183,
+            "mst_costume_id": 183001,
+            "mst_attachment_id": 183001,
+            "mst_weapon_model_id": 183001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 184,
+            "mst_costume_id": 184001,
+            "mst_attachment_id": 184001,
+            "mst_weapon_model_id": 184001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 198,
+            "mst_costume_id": 198001,
+            "mst_attachment_id": 198001,
+            "mst_weapon_model_id": 198001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 200,
+            "mst_costume_id": 200001,
+            "mst_attachment_id": 200001,
+            "mst_weapon_model_id": 200001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 201,
+            "mst_costume_id": 201001,
+            "mst_attachment_id": 201001,
+            "mst_weapon_model_id": 201001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 202,
+            "mst_costume_id": 202001,
+            "mst_attachment_id": 202001,
+            "mst_weapon_model_id": 202001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 211,
+            "mst_costume_id": 211001,
+            "mst_attachment_id": 211001,
+            "mst_weapon_model_id": 211001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 213,
+            "mst_costume_id": 213001,
+            "mst_attachment_id": 213001,
+            "mst_weapon_model_id": 213001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 222,
+            "mst_costume_id": 222001,
+            "mst_attachment_id": 222001,
+            "mst_weapon_model_id": 222001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 224,
+            "mst_costume_id": 224001,
+            "mst_attachment_id": 224001,
+            "mst_weapon_model_id": 224001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 230,
+            "mst_costume_id": 230001,
+            "mst_attachment_id": 230001,
+            "mst_weapon_model_id": 230001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 239,
+            "mst_costume_id": 239001,
+            "mst_attachment_id": 239001,
+            "mst_weapon_model_id": 239001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 254,
+            "mst_costume_id": 254001,
+            "mst_attachment_id": 254001,
+            "mst_weapon_model_id": 254001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 257,
+            "mst_costume_id": 257001,
+            "mst_attachment_id": 257001,
+            "mst_weapon_model_id": 257001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 262,
+            "mst_costume_id": 262001,
+            "mst_attachment_id": 262001,
+            "mst_weapon_model_id": 262001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 271,
+            "mst_costume_id": 271001,
+            "mst_attachment_id": 271001,
+            "mst_weapon_model_id": 271001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 277,
+            "mst_costume_id": 277001,
+            "mst_attachment_id": 277001,
+            "mst_weapon_model_id": 277001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 282,
+            "mst_costume_id": 282001,
+            "mst_attachment_id": 282001,
+            "mst_weapon_model_id": 282001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 283,
+            "mst_costume_id": 283001,
+            "mst_attachment_id": 283001,
+            "mst_weapon_model_id": 283001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 284,
+            "mst_costume_id": 284001,
+            "mst_attachment_id": 284001,
+            "mst_weapon_model_id": 284001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 299,
+            "mst_costume_id": 299001,
+            "mst_attachment_id": 299001,
+            "mst_weapon_model_id": 299001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 301,
+            "mst_costume_id": 301001,
+            "mst_attachment_id": 301001,
+            "mst_weapon_model_id": 301001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 302,
+            "mst_costume_id": 302001,
+            "mst_attachment_id": 302001,
+            "mst_weapon_model_id": 302001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 303,
+            "mst_costume_id": 303001,
+            "mst_attachment_id": 303001,
+            "mst_weapon_model_id": 303001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 321,
+            "mst_costume_id": 321001,
+            "mst_attachment_id": 321001,
+            "mst_weapon_model_id": 321001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 1012,
+            "mst_costume_id": 1012001,
+            "mst_attachment_id": 1012001,
+            "mst_weapon_model_id": 1012001,
+            "mst_cutin_id": 1
+        },
+        {
+            "mst_chara_id": 1072,
+            "mst_costume_id": 1072001,
+            "mst_attachment_id": 1072001,
+            "mst_weapon_model_id": 1072001,
+            "mst_cutin_id": 1
+        }
+    ]
+}
