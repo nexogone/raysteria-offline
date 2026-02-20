@@ -13,6 +13,15 @@ A server re-implementation for a certain mobile gacha game.
 ## Quick Start
 ### Android (via Termux):
 ```
+pkg install git python rust binutils uv libuv -y
+git clone https://github.com/nexogone/raysteria-offline.git
+
+cd raysteria-offline
+uv run uvicorn raysteria:create_app --host localhost --port 5001 --factory
+```
+
+### Android (via Termux) - Alternative method:
+```
 pkg install git python -y
 pip install litestar==2.21.0 jinja2==3.1.6 uvicorn==0.41.0
 
